@@ -1,0 +1,77 @@
+<%= form_with(model: watch) do |form| %>
+  <% if watch.errors.any? %>
+    <div style="color: red">
+      <h2><%= pluralize(watch.errors.count, "error") %> prohibited this watch from being saved:</h2>
+
+      <ul>
+        <% watch.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div>
+    <%= form.label :model_id, style: "display: block" %>
+    <%= form.text_field :model_id %>
+  </div>
+
+  <div>
+    <%= form.label :brand_id, style: "display: block" %>
+    <%= form.text_field :brand_id %>
+  </div>
+
+  <div>
+    <%= form.label :case_material_id, style: "display: block" %>
+    <%= form.text_field :case_material_id %>
+  </div>
+
+  <div>
+    <%= form.label :strap_material_id, style: "display: block" %>
+    <%= form.text_field :strap_material_id %>
+  </div>
+
+  <div>
+    <%= form.label :crystal_material_id, style: "display: block" %>
+    <%= form.text_field :crystal_material_id %>
+  </div>
+
+  <div>
+    <%= form.label :dial_color_id, style: "display: block" %>
+    <%= form.text_field :dial_color_id %>
+  </div>
+
+  <div>
+    <%= form.label :movement_type_id, style: "display: block" %>
+    <%= form.text_field :movement_type_id %>
+  </div>
+
+  <div>
+    <%= form.label :water_resistance, style: "display: block" %>
+    <%= form.number_field :water_resistance %>
+  </div>
+
+  <div>
+    <%= form.label :case_diameter, style: "display: block" %>
+    <%= form.text_field :case_diameter %>
+  </div>
+
+  <div>
+    <%= form.label :case_thickness, style: "display: block" %>
+    <%= form.text_field :case_thickness %>
+  </div>
+
+  <div>
+    <%= form.label :band_width, style: "display: block" %>
+    <%= form.number_field :band_width %>
+  </div>
+
+  <div>
+    <%= form.label :current_price, style: "display: block" %>
+    <%= form.text_field :current_price %>
+  </div>
+
+  <div>
+    <%= form.submit %>
+  </div>
+<% end %>
