@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  model: one
+  brand: one
+  case_material: one
+  strap_material: one
+  crystal_material: one
+  dial_color: one
+  movement_type: one
+  water_resistance: 1
+  case_diameter: 9.99
+  case_thickness: 9.99
+  band_width: 1
+  current_price: 9.99
+
+two:
+  model: two
+  brand: two
+  case_material: two
+  strap_material: two
+  crystal_material: two
+  dial_color: two
+  movement_type: two
+  water_resistance: 1
+  case_diameter: 9.99
+  case_thickness: 9.99
+  band_width: 1
+  current_price: 9.99
