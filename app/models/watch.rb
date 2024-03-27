@@ -6,4 +6,5 @@ class Watch < ApplicationRecord
   belongs_to :crystal_material
   belongs_to :dial_color
   belongs_to :movement_type
+  has_many :order_details
 end
