@@ -21,7 +21,7 @@ watches.each do |v|
   crystal_material = CrystalMaterial.find_or_create_by(material: v["Crystal Material"])
   strap_material = StrapMaterial.find_or_create_by(material: v["Strap Material"])
   dial_color = DialColor.find_or_create_by(color: v["Dial Color"])
-  movement_type = MovementType.find_or_create_by(type: v["Movement Type"])
+  movement_type = MovementType.find_or_create_by(movement: v["Movement Type"])
   brand = Brand.find_or_create_by(name: v["Brand"])
   model = Model.find_or_create_by(name: v["Model"])
 
