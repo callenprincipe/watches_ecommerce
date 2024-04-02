@@ -13,4 +13,19 @@ class Watch < ApplicationRecord
   validates :water_resistance, :case_diameter, :case_thickness, :current_price, presence:true
   validates :case_diameter, :case_thickness, :current_price, numericality: { only_decimal: true }
   validates :water_resistance, numericality: {only_integer: true}
+
+
+  def self.search(search, search_by)
+    if search
+      if search_by == 'Brand'
+        joins(:brand).where('brands.name LIKE ?', "%#{search}%")
+      elsif search_by == 'Model'
+        joins(:model).where('models.name LIKE ?', "%#{search}%")
+      else
+        where('name LIKE ?', "%#{search}%")
+      end
+    else
+      all
+    end
+  end
 end

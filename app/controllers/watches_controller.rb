@@ -4,7 +4,7 @@ class WatchesController < ApplicationController
   # GET /watches or /watches.json
   def index
     @watches = if params[:search].present?
-      Watch.search(params[:search]).page(params[:page]).per(12)
+      Watch.search(params[:search], params[:search_by]).page(params[:page]).per(12)
     else
       Watch.page(params[:page]).per(12)
     end

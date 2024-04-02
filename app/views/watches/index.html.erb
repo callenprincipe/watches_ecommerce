@@ -1,15 +1,18 @@
 <section class="section">
   <div class="container">
     <h1 class="title">Luxury Watches</h1>
-      <%= form_tag(watches_path, method: :get, class: 'field has-addons') do %>
-        <div class="control">
-          <%= text_field_tag :search, params[:search], class: 'input', placeholder: 'Search by name...' %>
-        </div>
-        <div class="control">
-          <%= button_tag(type: 'submit', class: 'button is-primary') do %>
-            Search
-          <% end %>
-        </div>
+    <%= form_tag(watches_path, method: :get, class: 'field has-addons') do %>
+      <div class="control">
+        <%= text_field_tag :search, params[:search], class: 'input', placeholder: 'Search...' %>
+      </div>
+      <div class="control">
+        <%= select_tag :search_by, options_for_select(['Model', 'Brand'], params[:search_by]), class: 'select is-rounded' %>
+      </div>
+      <div class="control">
+        <%= button_tag(type: 'submit', class: 'button is-primary') do %>
+          Search
+        <% end %>
+      </div>
     <% end %>
     <% if @watches.any? %>
     <nav class="pagination is-centered" role="navigation" aria-label="pagination">
