@@ -1,10 +1,19 @@
-<p style="color: green"><%= notice %></p>
+<%= link_to "Back to Models", models_path%>
 
-<%= render @model %>
+<h2 class="title is-2">Watches in <%= @model.name %></h2>
 
-<div>
-  <%= link_to "Edit this model", edit_model_path(@model) %> |
-  <%= link_to "Back to models", models_path %>
 
-  <%= button_to "Destroy this model", @model, method: :delete %>
-</div>
+ <div class="columns is-multiline">
+      <% @model.watches.each do |watch| %>
+        <div class="column is-one-third">
+          <div class="box">
+            <p class="title">
+              <%= link_to watch.model.name, watch, class: 'has-text-info' %>
+            </p>
+            <p class="subtitle">Price: <%= number_to_currency(watch.current_price) %> USD</p>
+            <p class="subtitle">Size: <%= watch.case_diameter %>mm</p>
+            <p class="subtitle">By: <%= watch.brand.name %></p>
+            <p>ID: <%= watch.id %></p>
+          </div>
+      <% end %>
+  </div>

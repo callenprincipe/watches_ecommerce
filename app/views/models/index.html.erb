@@ -1,14 +1,13 @@
-<p style="color: green"><%= notice %></p>
+<h1 class="title is-1">Models</h1>
 
-<h1>Models</h1>
-
-<div id="models">
+<div class="columns is-multiline" id="genres">
   <% @models.each do |model| %>
-    <%= render model %>
-    <p>
-      <%= link_to "Show this model", model %>
-    </p>
+    <div class="column is-one-third">
+      <div class="box">
+        <p class="subtitle is-4">
+          <%= link_to model.name, model, class: "has-text-info" %>
+        </p>
+      </div>
+    </div>
   <% end %>
 </div>
-
-<%= link_to "New model", new_model_path %>
