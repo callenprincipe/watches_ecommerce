@@ -1,62 +1,84 @@
-<div id="<%= dom_id watch %>">
-  <p>
-    <strong>Model:</strong>
-    <%= watch.model_id %>
-  </p>
+<div class="content">
+  <h2 class="subtitle is-3">Watch ID - <%= watch.id %></h2>
 
-  <p>
-    <strong>Brand:</strong>
-    <%= watch.brand_id %>
-  </p>
+  <div class="columns">
 
-  <p>
-    <strong>Case material:</strong>
-    <%= watch.case_material_id %>
-  </p>
+    <div class="column is-one-third">
+      <p class="title is-4">Model:</p>
+      <p class="subtitle is-5">
+        <% if @watch.model %>
+          <%= link_to @watch.model.name, brand_path(@watch.model) %>
+        <% else %>
+          N/A
+        <% end %>
+      </p>
+    </div>
 
-  <p>
-    <strong>Strap material:</strong>
-    <%= watch.strap_material_id %>
-  </p>
+    <div class="column is-one-third">
+      <p class="title is-4">Brand:</p>
+      <p class="subtitle is-5">
+        <% if @watch.brand %>
+          <%= link_to @watch.brand.name, brand_path(@watch.brand) %>
+        <% else %>
+          N/A
+        <% end %>
+      </p>
+    </div>
 
-  <p>
-    <strong>Crystal material:</strong>
-    <%= watch.crystal_material_id %>
-  </p>
+    <div class="column is-one-third">
+      <p class="title is-4">Case Material:</p>
+      <p class="subtitle is-5"><%= watch.case_material.material %></p>
+    </div>
+  </div>
 
-  <p>
-    <strong>Dial color:</strong>
-    <%= watch.dial_color_id %>
-  </p>
+  <div class="columns">
+    <div class="column is-one-third">
+      <p class="title is-4">Strap Material:</p>
+      <p class="subtitle is-5"><%= watch.strap_material.material %></p>
+    </div>
 
-  <p>
-    <strong>Movement type:</strong>
-    <%= watch.movement_type_id %>
-  </p>
+    <div class="column is-one-third">
+      <p class="title is-4">Crystal Material:</p>
+      <p class="subtitle is-5"><%= watch.crystal_material.material %></p>
+    </div>
 
-  <p>
-    <strong>Water resistance:</strong>
-    <%= watch.water_resistance %>
-  </p>
+    <div class="column is-one-third">
+      <p class="title is-4">Dial Color:</p>
+      <p class="subtitle is-5"><%= watch.dial_color.color %></p>
+    </div>
+  </div>
 
-  <p>
-    <strong>Case diameter:</strong>
-    <%= watch.case_diameter %>
-  </p>
+  <div class="columns">
+    <div class="column is-one-third">
+      <p class="title is-4">Movement Type:</p>
+      <p class="subtitle is-5"><%= watch.movement_type.movement %></p>
+    </div>
 
-  <p>
-    <strong>Case thickness:</strong>
-    <%= watch.case_thickness %>
-  </p>
+    <div class="column is-one-third">
+      <p class="title is-4">Water Resistance:</p>
+      <p class="subtitle is-5"><%= watch.water_resistance %> Meters</p>
+    </div>
 
-  <p>
-    <strong>Band width:</strong>
-    <%= watch.band_width %>
-  </p>
+    <div class="column is-one-third">
+      <p class="title is-4">Case Diameter:</p>
+      <p class="subtitle is-5"><%= watch.case_diameter %>mm</p>
+    </div>
+  </div>
 
-  <p>
-    <strong>Current price:</strong>
-    <%= watch.current_price %>
-  </p>
+  <div class="columns">
+    <div class="column is-one-third">
+      <p class="title is-4">Case Thickness:</p>
+      <p class="subtitle is-5"><%= watch.case_thickness %>mm</p>
+    </div>
 
+    <div class="column is-one-third">
+      <p class="title is-4">Band Width:</p>
+      <p class="subtitle is-5"><%= watch.band_width %>mm</p>
+    </div>
+
+    <div class="column is-one-third">
+      <p class="title is-4">Price:</p>
+      <p class="subtitle is-5"><%= number_to_currency(watch.current_price) %> USD</p>
+    </div>
+  </div>
 </div>
