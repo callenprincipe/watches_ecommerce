@@ -1,0 +1,17 @@
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <%= link_to root_path, class: 'navbar-item' do %>
+      Home
+    <% end %>
+    <%= link_to watches_path, class: 'navbar-item' do %>
+      Watches
+    <% end %>
+        <%= link_to models_path, class: 'navbar-item' do %>
+      Models
+    <% end %>
+    <%= link_to brands_path, class: 'navbar-item' do %>
+      Brands
+    <% end %>
+  </div>
+</nav>

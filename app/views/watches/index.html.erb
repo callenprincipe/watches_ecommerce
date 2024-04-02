@@ -1,14 +1,36 @@
-<p style="color: green"><%= notice %></p>
-
-<h1>Watches</h1>
-
-<div id="watches">
-  <% @watches.each do |watch| %>
-    <%= render watch %>
-    <p>
-      <%= link_to "Show this watch", watch %>
-    </p>
-  <% end %>
-</div>
-
-<%= link_to "New watch", new_watch_path %>
+<section class="section">
+  <div class="container">
+    <h1 class="title">Luxury Watches</h1>
+      <%= form_tag(watches_path, method: :get, class: 'field has-addons') do %>
+        <div class="control">
+          <%= text_field_tag :search, params[:search], class: 'input', placeholder: 'Search by name...' %>
+        </div>
+        <div class="control">
+          <%= button_tag(type: 'submit', class: 'button is-primary') do %>
+            Search
+          <% end %>
+        </div>
+    <% end %>
+    <% if @watches.any? %>
+    <nav class="pagination is-centered" role="navigation" aria-label="pagination">
+      <%= paginate @watches,window:2 %>
+    </nav>
+    <div class="columns is-multiline">
+      <% @watches.each do |watch| %>
+        <div class="column is-one-third">
+          <div class="box">
+            <p class="title">
+              <%= link_to watch.model.name, watch, class: 'has-text-info' %>
+            </p>
+            <p class="subtitle">Price: <%= number_to_currency(watch.current_price) %> USD</p>
+            <p class="subtitle">Size: <%= watch.case_diameter %>mm</p>
+            <p class="subtitle">By: <%= link_to watch.brand.name %></p>
+          </div>
+        </div>
+      <% end %>
+    </div>
+    <% else %>
+      <p>No results found.</p>
+    <% end %>
+  </div>
+</section>
