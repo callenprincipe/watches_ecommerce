@@ -22,7 +22,7 @@ class Watch < ApplicationRecord
       elsif search_by == 'Model'
         joins(:model).where('models.name LIKE ?', "%#{search}%")
       else
-        where('name LIKE ?', "%#{search}%")
+        joins(:brand, :model).where('brands.name LIKE ? OR models.name LIKE ?', "%#{search}%", "%#{search}%")
       end
     else
       all

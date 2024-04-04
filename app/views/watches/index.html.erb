@@ -6,7 +6,7 @@
         <%= text_field_tag :search, params[:search], class: 'input', placeholder: 'Search...' %>
       </div>
       <div class="control">
-        <%= select_tag :search_by, options_for_select(['Model', 'Brand'], params[:search_by]), class: 'select is-rounded' %>
+        <%= select_tag :search_by, options_for_select(['All','Model', 'Brand'], params[:search_by]), class: 'select is-rounded' %>
       </div>
       <div class="control">
         <%= button_tag(type: 'submit', class: 'button is-primary') do %>
