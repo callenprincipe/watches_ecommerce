@@ -50,3 +50,4 @@ puts "Created #{DialColor.count} Dial Colors."
 puts "Created #{MovementType.count} Movement Types."
 puts "Created #{Brand.count} Brands."
 puts "Created #{Model.count} Models."
+AdminUser.create!(email: 'admin@example.com', password: 'password', password_confirmation: 'password') if Rails.env.development?

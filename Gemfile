@@ -69,3 +69,6 @@ group :test do
 end
 
 gem 'kaminari'
+gem 'activeadmin'
+gem 'devise'
+gem 'sassc'
