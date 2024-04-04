@@ -1,508 +1,508 @@
-﻿w,Brand,Model,Case Material,Strap Material,Movement Type,Water Resistance,Case Diameter,Case Thickness,Band Width,Dial Color,Crystal Material,Price,
-,Rolex,Submariner,Stainless Steel,Stainless Steel,Automatic,300,40.0,13.0,20,Black,Sapphire,9500,
-,Omega,Seamaster,Titanium,Rubber,Automatic,600,43.5,14.5,21,Blue,Sapphire,5800,
-,Tag Heuer,Carrera,Stainless Steel,Leather,Automatic,100,41.0,13.0,20,White,Sapphire,4200,
-,Breitling,Navitimer,Stainless Steel,Stainless Steel,Automatic,30,43.0,14.3,22,Black,Sapphire,7900,
-,Cartier,Tank Solo,Stainless Steel,Leather,Quartz,30,31.0,6.1,20,Silver,Sapphire,2800,
-,Jaeger-LeCoultre,Reverso,Stainless Steel,Leather,Manual,30,42.9,9.2,20,Black,Sapphire,5500,
-,Seiko,Prospex,Stainless Steel,Rubber,Automatic,200,44.3,12.9,20,Black,Sapphire,1400,
-,Citizen,Promaster,Stainless Steel,Stainless Steel,Eco-Drive,200,42.0,13.0,22,Black,Mineral,1200,
-,Tissot,Le Locle,Stainless Steel,Leather,Automatic,30,39.3,9.8,19,White,Sapphire,650,
-,Hamilton,Khaki Field,Stainless Steel,Leather,Automatic,100,38.0,9.8,20,Black,Sapphire,495,
-,Longines,Master Collection,Stainless Steel,Leather,Automatic,30,38.5,9.7,20,Silver,Sapphire,1150,
-,Oris,Big Crown ProPilot,Stainless Steel,Textile,Automatic,100,41.0,12.0,20,Black,Sapphire,1800,
-,Bell & Ross,Aviation,Stainless Steel,Rubber,Automatic,100,42.0,11.5,24,Black,Sapphire,4500,
-,Sinn,104,Stainless Steel,Leather,Automatic,200,41.0,11.5,20,Black,Sapphire,1400,
-,Breguet,Classique,18k White Gold,Leather,Manual,30,38.0,8.7,20,Silver,Sapphire,16000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Silver,Sapphire,22000,
-,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41.0,11.0,22,Blue,Sapphire,19000,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42.0,14.5,20,Black,Sapphire,4500,
-,Breitling,Superocean,Stainless Steel,Rubber,Automatic,500,42.0,13.3,20,Blue,Sapphire,3200,
-,Panerai,Luminor Base Logo,Stainless Steel,Leather,Manual,100,44.0,10.5,22,Black,Sapphire,3900,
-,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41.0,11.9,22,Black,Sapphire,3500,
-,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40.0,12.5,20,Black,Sapphire,14000,
-,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41.0,12.5,20,Black,Sapphire,4800,
-,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,39.0,7.6,20,Silver,Sapphire,7500,
-,Bell & Ross,BR 03-92,Ceramic,Rubber,Automatic,100,42.0,9.3,22,Black,Sapphire,4200,
-,Montblanc,1858 Geosphere,Stainless Steel,Leather,Automatic,100,42.0,11.2,22,Black,Sapphire,6200,
-,Cartier,Santos-Dumont,Stainless Steel,Leather,Quartz,30,38.0,7.5,18,Silver,Sapphire,3500,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Black,Sapphire,21000,
-,Rolex,Datejust,Stainless Steel,Jubilee,Automatic,100,36.0,12.0,20,Silver,Sapphire,9000,
-,Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,50,42.0,14.3,20,Black,Hesalite,5250,
-,IWC,Portugieser,Stainless Steel,Alligator,Automatic,30,40.4,12.3,20,Silver,Sapphire,8800,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Black,Sapphire,17800,
-,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45.0,15.4,23,Black,Sapphire,11500,
-,Zenith,El Primero,Stainless Steel,Alligator,Automatic,100,42.0,12.8,20,Silver,Sapphire,6500,
-,Breguet,Classique,18K Rose Gold,Leather,Automatic,30,39.0,8.7,20,Silver,Sapphire,23500,
-,Piaget,Polo S,Stainless Steel,Stainless Steel,Automatic,100,42.0,9.4,24,Blue,Sapphire,10000,
-,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100,44.0,12.5,22,Blue,Sapphire,9500,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.0,11.0,20,Silver,Sapphire,21500,
-,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30,43.0,12.3,23,Black,Sapphire,9800,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Blue,Sapphire,19900,
-,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45.0,15.5,22,Black,Sapphire,14400,
-,Breguet,Type XXI,Stainless Steel,Leather,Automatic,100,42.0,13.9,22,Silver,Sapphire,9500,
-,Bulgari,Octo Finissimo,Titanium,Leather,Automatic,100,40.0,5.2,28,Black,Sapphire,12800,
-,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,44.0,13.7,20,Black,Sapphire,6500,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,20,Blue,Sapphire,7800,
-,Glashütte Original,Senator,Stainless Steel,Leather,Automatic,50,42.0,12.2,21,Silver,Sapphire,9200,
-,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,42.0,9.3,20,Black,Sapphire,6500,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Silver,Sapphire,8400,
-,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30,43.0,12.1,23,Silver,Sapphire,6200,
-,Longines,Master Collection,Stainless Steel,Leather,Automatic,30,38.5,9.3,20,Blue,Sapphire,1600,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,20,Blue,Sapphire,29800,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Blue,Sapphire,24500,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Silver,Sapphire,7950,
-,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,42.0,10.5,22,Black,Sapphire,8200,
-,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45.0,15.4,23,Black,Sapphire,11500,
-,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,100,42.0,13.1,22,Silver,Sapphire,9400,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,38.0,10.9,25,Blue,Sapphire,6700,
-,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,42.0,11.4,20,Black,Sapphire,6100,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.0,11.0,22,Blue,Sapphire,16300,
-,Montblanc,1858,Stainless Steel,Leather,Automatic,100,42.0,12.8,22,Black,Sapphire,3600,
-,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,300,44.0,12.5,22,Black,Sapphire,9500,
-,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,41.0,11.2,20,Silver,Sapphire,8900,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,20,Blue,Sapphire,44500,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Blue,Sapphire,17000,
-,Tudor,Black Bay,Stainless Steel,Fabric,Automatic,200,41.0,12.7,22,Black,Sapphire,4500,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Silver,Sapphire,8300,
-,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44.0,13.1,24,Black,Sapphire,8900,
-,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300,43.6,13.8,23,Black,Sapphire,12000,
-,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,45.0,11.0,24,Blue,Sapphire,7500,
-,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,50,42.0,14.1,22,Silver,Sapphire,6900,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,50,41.0,11.0,20,Blue,Sapphire,15500,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,22,Black,Sapphire,11200,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,39.0,9.4,20,Blue,Sapphire,18900,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,20,Blue,Sapphire,49800,
-,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41.0,12.5,20,Black,Sapphire,5500,
-,Panerai,Luminor,Titanium,Rubber,Automatic,300,44.0,15.7,24,Black,Sapphire,9600,
-,Breguet,Type XX,Stainless Steel,Leather,Automatic,100,39.5,14.1,20,Black,Sapphire,8800,
-,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300,43.0,13.4,23,Black,Sapphire,14700,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,22,Blue,Sapphire,10600,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.0,11.0,20,Black,Sapphire,19200,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38.0,12.2,19,Silver,Sapphire,7500,
-,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,42.0,12.7,20,Black,Sapphire,5600,
-,Longines,HydroConquest,Stainless Steel,Stainless Steel,Automatic,300,43.0,12.8,22,Blue,Sapphire,1400,
-,Rolex,Submariner,Stainless Steel,Stainless Steel,Automatic,300,40.0,13.0,20,Black,Sapphire,9500,
-,Omega,Seamaster,Titanium,Rubber,Automatic,600,43.5,14.5,21,Blue,Sapphire,5800,
-,Tag Heuer,Carrera,Stainless Steel,Leather,Automatic,100,41.0,13.0,20,White,Sapphire,4200,
-,Breitling,Navitimer,Stainless Steel,Stainless Steel,Automatic,30,43.0,14.3,22,Black,Sapphire,7900,
-,Cartier,Tank Solo,Stainless Steel,Leather,Quartz,30,31.0,6.1,20,Silver,Sapphire,2800,
-,Jaeger-LeCoultre,Reverso,Stainless Steel,Leather,Manual,30,42.9,9.2,20,Black,Sapphire,5500,
-,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41.0,12.8,22,Black,Sapphire,3500,
-,Seiko,Prospex,Stainless Steel,Silicone,Automatic,200,42.3,13.4,22,Blue,Hardlex,650,
-,Citizen,Promaster,Titanium,Titanium,Eco-Drive,200,46.5,15.0,23,Black,Sapphire,995,
-,Hamilton,Khaki Field Auto,Stainless Steel,Leather,Automatic,100,38.0,9.9,20,Black,Sapphire,545,
-,Bulova,Precisionist,Stainless Steel,Stainless Steel,Quartz,300,46.5,17.5,24,Black,Mineral,650,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42.0,14.3,20,Black,Hesalite,5500,
-,Breitling,Superocean Heritage,Stainless Steel,Rubber,Automatic,200,42.0,14.4,22,Black,Sapphire,4800,
-,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,40.0,8.8,20,Silver,Sapphire,6500,
-,Cartier,Santos,Stainless Steel,Stainless Steel,Automatic,100,39.8,9.1,21.5,Silver,Sapphire,7500,
-,Zenith,Elite,Stainless Steel,Leather,Automatic,50,40.5,9.2,20,Silver,Sapphire,4500,
-,Panerai,Luminor Base,Stainless Steel,Leather,Manual,100,44.0,10.5,24,Black,Sapphire,5800,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Silver,Sapphire,21000,
-,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41.0,10.9,20,Black,Sapphire,3800,
-,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41.0,12.7,22,Black,Sapphire,3900,
-,Longines,Conquest VHP,Stainless Steel,Stainless Steel,Quartz,50,41.0,12.1,20,Black,Sapphire,1500,
-,Sinn,U1,Stainless Steel,Rubber,Automatic,1000,44.0,14.3,22,Black,Sapphire,2500,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,20,Blue,Sapphire,38000,
-,Audemars Piguet,Royal Oak,Rose Gold,Rose Gold,Automatic,50,41.0,9.8,20,Blue,Sapphire,55000,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.0,11.0,22,Blue,Sapphire,21000,
-,A. Lange & Sohne,Saxonia,White Gold,Leather,Manual,30,38.5,7.8,18,Silver,Sapphire,23000,
-,Breguet,Classique,Rose Gold,Leather,Manual,30,38.5,8.3,20,Silver,Sapphire,23000,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Blue,Sapphire,8500,
-,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300,45.0,15.5,23,Black,Sapphire,14000,
-,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44.0,14.5,24,Blue,Sapphire,16000,
-,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44.0,15.7,24,Black,Sapphire,8500,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42.0,12.8,20,Silver,Sapphire,6000,
-,Piaget,Altiplano,White Gold,Leather,Manual,30,38.0,6.1,20,Silver,Sapphire,16500,
-,Seiko,Prospex,Stainless Steel,Silicone,Automatic,200,44.3,12.7,20,Blue,Sapphire,1200,
-,Panerai,Luminor Due,Stainless Steel,Leather,Automatic,30,38.0,11.2,20,Black,Sapphire,6500,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Blue,Sapphire,9800,
-,Blancpain,Fifty Fathoms,Titanium,Rubber,Automatic,300,45.0,15.5,23,Black,Sapphire,16800,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.5,20,Black,Sapphire,19800,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,20,Blue,Sapphire,47000,
-,Breguet,Classique,18K Rose Gold,Leather,Automatic,30,40.0,6.8,20,White,Sapphire,19000,
-,Vacheron Constantin,Patrimony,18K White Gold,Leather,Manual,30,40.0,6.8,20,Silver,Sapphire,18500,
-,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,44.0,15.0,22,Black,Sapphire,5800,
-,Longines,Conquest,Stainless Steel,Stainless Steel,Automatic,300,41.0,13.2,20,Black,Sapphire,2200,
-,Montblanc,1858,Stainless Steel,Leather,Manual,30,44.0,12.3,22,Black,Sapphire,3500,
-,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40.0,12.5,20,Black,Sapphire,9950,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42.0,13.7,20,Black,Hesalite,4950,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,20,Blue,Sapphire,38000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Blue,Sapphire,22000,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Silver,Sapphire,7500,
-,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,39.0,7.6,20,Silver,Sapphire,8900,
-,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300,45.0,15.4,23,Black,Sapphire,13900,
-,Breguet,Classique,Rose Gold,Leather,Manual,30,40.0,6.8,20,Silver,Sapphire,20500,
-,Ulysse Nardin,Marine,Titanium,Rubber,Automatic,300,44.0,14.5,22,Blue,Sapphire,9500,
-,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,41.0,14.5,20,Black,Sapphire,16000,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38.0,12.8,20,White,Sapphire,5500,
-,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,41.0,11.8,20,Black,Sapphire,8200,
-,Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,50,42.0,13.2,20,Black,Hesalite,5500,
-,Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,30,33.0,10.0,18,Silver,Sapphire,6500,
-,Breitling,Superocean,Stainless Steel,Rubber,Automatic,500,42.0,13.3,20,Blue,Sapphire,3600,
-,Patek Philippe,Calatrava,Rose Gold,Leather,Manual,30,36.0,7.5,18,White,Sapphire,18000,
-,Hublot,Big Bang,Titanium,Rubber,Automatic,100,42.0,14.5,24,Black,Sapphire,8900,
-,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45.0,15.4,23,Black,Sapphire,13500,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Blue,Sapphire,26000,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42.0,12.8,22,Black,Sapphire,6500,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.5,12.3,22,Silver,Sapphire,7800,
-,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,38.0,7.6,20,Silver,Sapphire,4500,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,22,Blue,Sapphire,29800,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Black,Sapphire,23100,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Silver,Sapphire,7950,
-,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41.5,11.0,22,Blue,Sapphire,18900,
-,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45.0,15.5,23,Black,Sapphire,12800,
-,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,44.0,14.5,26,Black,Sapphire,17900,
-,Breguet,Classique,18k Rose Gold,Leather,Manual,30,39.0,8.7,20,Silver,Sapphire,15200,
-,Ulysse Nardin,Marine,Stainless Steel,Leather,Automatic,100,42.2,14.2,22,Blue,Sapphire,8400,
-,Zenith,Defy,Titanium,Rubber,Automatic,100,41.0,10.8,22,Blue,Sapphire,9500,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,22,Silver,Sapphire,9200,
-,Panerai,Luminor,Stainless Steel,Leather,Manual,100,44.0,13.1,24,Black,Sapphire,7500,
-,Seiko,Prospex,Stainless Steel,Silicone,Automatic,200,43.0,13.2,22,Blue,Hardlex,1300,
-,Tissot,Le Locle,Stainless Steel,Leather,Automatic,30,39.3,9.8,20,Silver,Sapphire,650,
-,Longines,Master Collection,Stainless Steel,Leather,Automatic,30,40.0,10.3,20,Black,Sapphire,2500,
-,Hamilton,Jazzmaster,Stainless Steel,Leather,Automatic,50,40.0,11.2,20,Silver,Sapphire,1150,
-,Montblanc,Heritage,Stainless Steel,Leather,Automatic,50,40.0,9.9,20,Silver,Sapphire,2750,
-,Rado,True Thinline,High-Tech Ceramic,Leather,Quartz,30,39.0,5.0,22,Black,Sapphire,1600,
-,Frederique Constant,Classics,Stainless Steel,Leather,Automatic,50,40.0,10.5,20,Silver,Sapphire,1400,
-,Zenith,Elite,Stainless Steel,Leather,Automatic,50,40.5,8.2,22,White,Sapphire,5500,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,38.0,10.9,25,Black,Sapphire,8700,
-,Ulysse Nardin,Marine Torpilleur,Stainless Steel,Leather,Automatic,50,42.0,11.2,20,Blue,Sapphire,7900,
-,Sinn,U50,German Submarine Steel,Silicone,Automatic,500,45.0,14.7,22,Black,Sapphire,3350,
-,Rolex,Datejust,Stainless Steel,Jubilee,Automatic,100,36.0,12.5,20,Black,Sapphire,8000,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42.0,13.5,20,Black,Sapphire,6500,
-,Cartier,Ballon Bleu,Stainless Steel,Leather,Automatic,30,33.0,10.0,16,Silver,Sapphire,4500,
-,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Quartz,300,43.0,10.8,20,Blue,Sapphire,1800,
-,Breitling,Superocean,Stainless Steel,Rubber,Automatic,2000,42.0,13.3,20,Blue,Sapphire,3600,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Blue,Sapphire,8900,
-,Panerai,Luminor Marina,Titanium,Leather,Manual,300,44.0,13.1,24,Black,Sapphire,5700,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,22,Blue,Sapphire,34000,
-,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,39.0,7.6,20,Silver,Sapphire,6800,
-,Bell & Ross,BR V2-92,Stainless Steel,Rubber,Automatic,100,41.0,9.7,22,Black,Sapphire,2500,
-,Montblanc,1858,Bronze,Leather,Automatic,100,44.0,12.8,22,Black,Sapphire,5300,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,22,Blue,Sapphire,34000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Black,Sapphire,22000,
-,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41.0,11.0,21,Blue,Sapphire,17500,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,13.1,22,Silver,Sapphire,8500,
-,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,44.5,14.5,22,Black,Sapphire,15000,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38.0,12.4,19,White,Sapphire,6000,
-,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,42.0,12.7,20,Black,Sapphire,5000,
-,Panerai,Luminor,Titanium,Rubber,Automatic,300,44.0,13.1,24,Black,Sapphire,8500,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,22,Blue,Sapphire,9000,
-,Blancpain,Fifty Fathoms,Stainless Steel,NATO Strap,Automatic,300,45.0,15.5,23,Black,Sapphire,12500,
-,Bulgari,Octo Finissimo,Titanium,Leather,Automatic,30,40.0,5.5,21,Black,Sapphire,10000,
-,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41.0,12.7,22,Black,Sapphire,3800,
-,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44.0,13.1,22,Black,Sapphire,8900,
-,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44.0,14.5,25,Black,Sapphire,16800,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,40.9,12.3,20,Silver,Sapphire,6900,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Blue,Sapphire,24500,
-,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41.5,11.0,21,Silver,Sapphire,19500,
-,Breguet,Classique,18k White Gold,Leather,Automatic,30,39.0,8.7,20,Silver,Sapphire,24500,
-,Piaget,Altiplano,18k Rose Gold,Leather,Manual,30,38.0,6.0,20,White,Sapphire,20800,
-,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300,45.0,15.5,23,Black,Sapphire,13000,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,41.0,10.9,22,Black,Sapphire,9700,
-,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,50,42.0,14.1,22,Silver,Sapphire,7400,
-,Breitling,Superocean Heritage II,Stainless Steel,Rubber,Automatic,200,44.0,14.2,22,Black,Sapphire,4300,
-,Cartier,Santos de Cartier,Stainless Steel,Stainless Steel,Automatic,100,39.8,9.1,20,Silver,Sapphire,6500,
-,Omega,Speedmaster,Stainless Steel,Leather,Manual,50,42.0,13.7,20,Black,Hesalite,5500,
-,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40.0,12.4,20,Black,Sapphire,9100,
-,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,40.0,8.8,20,Silver,Sapphire,7500,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Blue,Sapphire,20900,
-,IWC,Pilot's Watch Mark XVIII,Stainless Steel,Leather,Automatic,60,40.0,10.8,20,Black,Sapphire,4200,
-,Patek Philippe,Calatrava,18k White Gold,Leather,Automatic,30,39.0,8.6,20,Silver,Sapphire,22000,
-,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Quartz,300,32.0,9.5,15,Blue,Sapphire,1700,
-,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41.0,12.7,22,Black,Sapphire,3600,
-,Rolex,Datejust,Stainless Steel,Jubilee Bracelet,Automatic,100,36.0,12.5,20,Silver,Sapphire,8900,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42.0,13.5,20,Black,Sapphire,6800,
-,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Quartz,300,43.0,10.8,21,Blue,Sapphire,2600,
-,Breitling,Superocean Heritage,Stainless Steel,Leather,Automatic,200,42.0,14.4,20,Black,Sapphire,4400,
-,Cartier,Ballon Bleu,18k Rose Gold,Leather,Automatic,30,33.0,10.0,18,Silver,Sapphire,13000,
-,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,39.0,8.5,20,Silver,Sapphire,7500,
-,Tudor,Black Bay GMT,Stainless Steel,Stainless Steel,Automatic,200,41.0,14.5,22,Black,Sapphire,4500,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38.0,12.5,19,White,Sapphire,6900,
-,Longines,HydroConquest,Stainless Steel,Stainless Steel,Automatic,300,41.0,12.7,20,Black,Sapphire,1800,
-,Oris,Divers Sixty-Five,Stainless Steel,Leather,Automatic,100,40.0,12.9,20,Blue,Sapphire,1500,
-,Hamilton,Khaki Field,Stainless Steel,NATO Strap,Automatic,100,38.0,9.7,20,Black,Sapphire,595,
-,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,42.0,13.2,22,Black,Sapphire,7500,
-,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41.0,15.3,22,Black,Sapphire,5400,
-,Patek Philippe,Calatrava,White Gold,Leather,Manual,30,37.0,7.7,20,White,Sapphire,25000,
-,Hublot,Big Bang,Carbon Fiber,Rubber,Automatic,100,44.0,14.5,25,Black,Sapphire,15000,
-,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,50,38.0,12.6,20,Silver,Sapphire,7500,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Blue,Sapphire,25000,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,50,41.0,11.0,22,Blue,Sapphire,18000,
-,Breguet,Classique,White Gold,Leather,Automatic,30,39.0,8.7,21,Silver,Sapphire,20000,
-,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100,42.0,12.8,22,Blue,Sapphire,8500,
-,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45.0,15.5,23,Black,Sapphire,10500,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,22,Black,Sapphire,9000,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,21,Blue,Sapphire,51000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Blue,Sapphire,22000,
-,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,46.2,15.0,20,Black,Sapphire,7500,
-,Blancpain,Fifty Fathoms,Titanium,Fabric,Automatic,300,45.0,15.4,23,Black,Sapphire,14500,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.0,11.0,22,Silver,Sapphire,21500,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42.0,12.8,20,Black,Sapphire,7500,
-,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44.0,14.5,22,Black,Sapphire,15000,
-,Breguet,Classique,18k Rose Gold,Leather,Automatic,30,39.0,10.2,22,Silver,Sapphire,18000,
-,Chopard,Happy Sport,Stainless Steel,Leather,Quartz,30,30.0,10.5,17,White,Sapphire,5000,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,41.0,10.9,22,Blue,Sapphire,11500,
-,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44.0,15.7,24,Black,Sapphire,8000,
-,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41.0,14.8,22,Black,Sapphire,3800,
-,Panerai,Luminor,Stainless Steel,Leather,Manual,100,44.0,13.1,24,Black,Sapphire,6400,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Silver,Sapphire,8900,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Blue,Sapphire,20400,
-,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41.0,11.0,21,Blue,Sapphire,22000,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,21,Blue,Sapphire,62500,
-,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45.0,15.5,23,Black,Sapphire,14900,
-,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,42.0,12.7,20,Silver,Sapphire,5900,
-,Longines,Master Collection,Stainless Steel,Leather,Automatic,30,40.0,9.4,20,Silver,Sapphire,1500,
-,Montblanc,Heritage,Stainless Steel,Leather,Automatic,50,40.0,9.9,20,Black,Sapphire,2700,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42.0,12.8,20,Black,Sapphire,6500,
-,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,41.0,11.8,21,Blue,Sapphire,7800,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42.0,13.8,20,Black,Sapphire,5300,
-,Tag Heuer,Monaco,Stainless Steel,Leather,Automatic,100,39.0,14.5,22,Blue,Sapphire,5900,
-,Breitling,Superocean,Stainless Steel,Rubber,Automatic,1000,44.0,14.2,22,Blue,Sapphire,3800,
-,Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,30,42.0,13.0,22,Silver,Sapphire,7500,
-,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,39.0,7.5,20,White,Sapphire,6200,
-,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40.0,12.5,20,Black,Sapphire,9500,
-,Omega,Aqua Terra,Stainless Steel,Stainless Steel,Automatic,150,41.5,13.0,20,Silver,Sapphire,4700,
-,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,300,41.0,12.5,20,Black,Sapphire,2700,
-,Breitling,Avenger II,Stainless Steel,Rubber,Automatic,300,43.0,16.5,22,Black,Sapphire,4600,
-,Cartier,Santos,Stainless Steel,Leather,Automatic,100,35.1,8.8,22,Silver,Sapphire,5300,
-,Rolex,Daytona,Yellow Gold,Leather,Automatic,100,40.0,12.4,20,Ivory,Sapphire,39500,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42.0,14.3,20,Black,Sapphire,5400,
-,TAG Heuer,Monaco,Stainless Steel,Leather,Automatic,100,39.0,14.0,22,Blue,Sapphire,6550,
-,Cartier,Santos-Dumont,Stainless Steel,Leather,Quartz,30,43.5,7.3,23,Silver,Sapphire,5300,
-,Breitling,Superocean,Stainless Steel,Rubber,Automatic,1000,42.0,13.3,20,Blue,Sapphire,3850,
-,Patek Philippe,Calatrava,White Gold,Leather,Automatic,30,39.0,8.3,20,Silver,Sapphire,25800,
-,Tudor,Black Bay,Stainless Steel,Fabric,Automatic,200,41.0,11.9,22,Black,Sapphire,4100,
-,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300,45.0,15.5,23,Black,Sapphire,12900,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Blue,Sapphire,6900,
-,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41.0,11.0,22,Blue,Sapphire,19800,
-,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,36.0,12.0,20,Black,Sapphire,8100,
-,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,36.0,12.5,20,Black,Sapphire,6500,
-,Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,50,42.0,14.3,20,Black,Hesalite,5400,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,20,Blue,Sapphire,44000,
-,Cartier,Ballon Bleu,18k Rose Gold,Leather,Automatic,30,33.0,10.0,18,Silver,Sapphire,13200,
-,Hublot,Classic Fusion,18k King Gold,Rubber,Automatic,50,42.0,10.5,22,Blue,Sapphire,20200,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Blue,Sapphire,24800,
-,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41.0,12.8,22,Black,Sapphire,4800,
-,Tudor,Black Bay GMT,Stainless Steel,Stainless Steel,Automatic,200,41.0,14.5,22,Black,Sapphire,4000,
-,Breguet,Classique,18k White Gold,Leather,Manual,30,40.0,7.0,20,White,Sapphire,22500,
-,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300,45.0,15.4,23,Black,Sapphire,12500,
-,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,42.0,12.7,22,Black,Sapphire,6900,
-,Panerai,Luminor,Titanium,Leather,Automatic,100,44.0,15.7,24,Black,Sapphire,7500,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Blue,Sapphire,25000,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,22,Blue,Sapphire,70000,
-,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41.0,10.8,20,Black,Sapphire,5500,
-,Blancpain,Fifty Fathoms,Titanium,Fabric,Automatic,300,45.0,15.4,23,Black,Sapphire,12000,
-,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100,44.0,14.4,22,Blue,Sapphire,7500,
-,Breguet,Classique,Rose Gold,Leather,Automatic,30,38.0,8.3,20,Silver,Sapphire,20000,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,38.0,10.9,22,Black,Sapphire,8500,
-,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,42.0,14.1,24,Black,Sapphire,12000,
-,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,100,42.0,14.1,20,Silver,Sapphire,6000,
-,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41.0,11.0,22,Blue,Sapphire,12000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Black,Sapphire,22000,
-,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,42.0,10.5,22,Blue,Sapphire,8500,
-,Panerai,Luminor Marina,Stainless Steel,Leather,Manual,300,44.0,15.7,24,Black,Sapphire,7200,
-,Breguet,Classique,18K White Gold,Leather,Manual,30,40.0,6.1,20,Silver,Sapphire,16000,
-,Chopard,Happy Sport,Stainless Steel,Stainless Steel,Quartz,30,30.0,7.2,15,Silver,Sapphire,5800,
-,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100,42.2,12.6,22,Blue,Sapphire,8900,
-,IWC,Portugieser Chronograph,Stainless Steel,Leather,Automatic,30,41.0,13.1,20,White,Sapphire,7600,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,20,Blue,Sapphire,57000,
-,Montblanc,1858 Geosphere,Titanium,Leather,Automatic,100,42.0,12.8,22,Black,Sapphire,6500,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.5,11.0,22,Blue,Sapphire,21000,
-,Zenith,Chronomaster El Primero,Stainless Steel,Leather,Automatic,100,38.0,12.5,20,Silver,Sapphire,6000,
-,Rolex,Daytona,18k Yellow Gold,Leather,Automatic,100,40.0,12.4,20,Champagne,Sapphire,29500,
-,Audemars Piguet,Royal Oak,Rose Gold,Rose Gold,Automatic,50,37.0,9.8,18,Blue,Sapphire,36500,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,22,Blue,Sapphire,51000,
-,IWC,Portuguese,Stainless Steel,Leather,Automatic,30,42.3,14.2,22,White,Sapphire,8800,
-,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300,45.0,15.4,23,Black,Sapphire,13500,
-,Hublot,Big Bang,Carbon Fiber,Rubber,Automatic,100,44.0,14.5,22,Black,Sapphire,19500,
-,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100,43.0,12.6,22,Blue,Sapphire,7000,
-,Breguet,Classique,18k White Gold,Leather,Manual,30,38.0,7.5,20,Silver,Sapphire,23000,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,25,Black,Sapphire,9500,
-,Piaget,Altiplano,18k White Gold,Leather,Manual,30,40.0,6.4,20,Silver,Sapphire,18500,
-,Vacheron Constantin,Patrimony,18k Rose Gold,Leather,Manual,30,42.0,7.7,20,Silver,Sapphire,22500,
-,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44.0,15.7,22,Black,Sapphire,7500,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Blue,Sapphire,6500,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Blue,Sapphire,20000,
-,Hublot,Big Bang,Carbon Fiber,Rubber,Automatic,100,44.0,14.5,26,Black,Sapphire,12000,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,22,Blue,Sapphire,6500,
-,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,42.0,11.4,22,Black,Sapphire,6200,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.0,11.0,22,Blue,Sapphire,15000,
-,Piaget,Altiplano,White Gold,Leather,Manual,30,40.0,6.4,20,Silver,Sapphire,22000,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42.0,12.8,22,Black,Sapphire,5500,
-,Breguet,Classique,White Gold,Leather,Automatic,30,39.0,10.2,22,Silver,Sapphire,19000,
-,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41.0,12.7,22,Black,Sapphire,3500,
-,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,36.0,12.5,20,Blue,Sapphire,7400,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42.0,14.3,20,Black,Hesalite,5000,
-,Cartier,Santos,Stainless Steel,Stainless Steel,Automatic,100,39.8,9.1,20,Silver,Sapphire,6200,
-,TAG Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,300,43.0,12.5,21,Black,Sapphire,3100,
-,Breitling,Superocean,Stainless Steel,Rubber,Automatic,1000,42.0,13.3,20,Blue,Sapphire,4100,
-,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44.0,13.1,24,Black,Sapphire,6500,
-,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41.0,12.7,22,Black,Sapphire,3800,
-,Zenith,Elite Classic,Stainless Steel,Leather,Automatic,50,39.0,8.2,20,Silver,Sapphire,4900,
-,Longines,Conquest Classic,Stainless Steel,Leather,Automatic,50,40.0,10.8,20,Silver,Sapphire,1850,
-,Montblanc,Star Legacy,Stainless Steel,Leather,Automatic,50,42.0,11.4,22,White,Sapphire,3900,
-,Baume & Mercier,Clifton Baumatic,Stainless Steel,Leather,Automatic,50,40.0,10.3,20,Silver,Sapphire,2750,
-,Rolex,Datejust,Stainless Steel,Jubilee Bracelet,Automatic,100,41.0,11.8,20,Blue,Sapphire,9500,
-,Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,50,42.0,13.8,20,Black,Hesalite,5350,
-,Breitling,Superocean Heritage,Stainless Steel,Stainless Steel,Automatic,200,44.0,14.2,22,Blue,Sapphire,3250,
-,Cartier,Santos-Dumont,18K Yellow Gold,Leather,Manual,30,27.5,6.5,18,Silver,Sapphire,14200,
-,Tag Heuer,Monaco,Stainless Steel,Leather,Automatic,100,39.0,14.0,22,Blue,Sapphire,4950,
-,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,40.0,8.5,20,Silver,Sapphire,6500,
-,Panerai,Luminor,Titanium,Rubber,Manual,300,44.0,15.6,24,Black,Sapphire,8500,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Blue,Sapphire,27000,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,40.4,12.3,20,Silver,Sapphire,7250,
-,Patek Philippe,Calatrava,18K White Gold,Leather,Manual,30,38.0,8.3,20,White,Sapphire,25000,
-,Bell & Ross,BR 03-92,Ceramic,Rubber,Automatic,100,42.0,9.8,24,Black,Sapphire,3800,
-,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,36.0,12.5,20,Silver,Sapphire,8000,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42.0,14.3,20,Black,Hesalite,4500,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,20,Blue,Sapphire,52000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Blue,Sapphire,28500,
-,IWC,Pilot's Watch Mark,Stainless Steel,Leather,Automatic,60,41.0,12.5,20,Black,Sapphire,6800,
-,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,42.0,14.1,24,Black,Sapphire,16000,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42.0,12.8,20,Black,Sapphire,6500,
-,Breguet,Classique,18K White Gold,Leather,Automatic,30,39.0,8.7,20,Silver,Sapphire,19000,
-,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300,45.0,15.5,23,Black,Sapphire,13500,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,25,Black,Sapphire,8000,
-,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30,43.0,12.5,23,Silver,Sapphire,10000,
-,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40.0,12.5,20,Black,Sapphire,9700,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,21,Blue,Sapphire,29800,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42.0,14.3,20,Black,Hesalite,5350,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Blue,Sapphire,18500,
-,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,43.0,15.0,22,Black,Sapphire,4950,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42.0,12.8,20,White,Sapphire,7900,
-,Cartier,Santos-Dumont,Stainless Steel,Leather,Manual,30,31.4,7.3,18,Silver,Sapphire,4500,
-,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44.0,14.5,24,Black,Sapphire,16000,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,22,Blue,Sapphire,12800,
-,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,40.0,8.8,20,Silver,Sapphire,8500,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Blue,Sapphire,8500,
-,Panerai,Luminor,Titanium,Rubber,Automatic,300,44.0,13.1,24,Black,Sapphire,7500,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,20,Blue,Sapphire,39000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,37.0,9.8,20,Blue,Sapphire,19500,
-,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44.0,14.5,24,Black,Sapphire,13000,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42.0,12.8,20,White,Sapphire,7500,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.0,11.0,22,Blue,Sapphire,23000,
-,Breguet,Classique,18K White Gold,Leather,Manual,30,40.0,7.0,20,Silver,Sapphire,24000,
-,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300,45.0,15.5,23,Black,Sapphire,11000,
-,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,44.0,14.5,22,Black,Sapphire,6000,
-,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,36.0,12.0,20,Silver,Sapphire,7500,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42.0,13.7,20,Black,Sapphire,6500,
-,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,300,43.0,13.0,21,Blue,Sapphire,3700,
-,Breitling,Superocean,Stainless Steel,Rubber,Automatic,200,44.0,14.2,22,Black,Sapphire,4500,
-,Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,30,42.0,13.0,22,Silver,Sapphire,7500,
-,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,40.0,8.8,20,Silver,Sapphire,6000,
-,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40.0,12.5,20,Black,Sapphire,9500,
-,Omega,Constellation,Stainless Steel,Stainless Steel,Automatic,100,39.0,10.6,20,Black,Sapphire,4800,
-,Tag Heuer,Monaco,Stainless Steel,Leather,Automatic,100,39.0,14.5,22,Blue,Sapphire,5200,
-,Breitling,Chronomat,Stainless Steel,Stainless Steel,Automatic,200,44.0,17.0,22,Blue,Sapphire,6900,
-,Cartier,Santos,Stainless Steel,Stainless Steel,Automatic,100,35.1,8.8,18,Silver,Sapphire,5500,
-,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,41.0,11.7,20,White,Sapphire,8000,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,21,Blue,Sapphire,40000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,37.0,9.0,16,Blue,Sapphire,18000,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,40.4,12.3,22,White,Sapphire,7500,
-,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44.0,14.5,25,Black,Sapphire,14000,
-,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45.0,15.4,23,Black,Sapphire,14000,
-,Breguet,Classique,Rose Gold,Leather,Manual,30,40.0,6.8,20,Silver,Sapphire,25000,
-,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,39.0,7.8,20,Silver,Sapphire,6500,
-,Zenith,El Primero,Stainless Steel,Stainless Steel,Automatic,100,42.0,12.8,20,Blue,Sapphire,7000,
-,Bulgari,Octo Finissimo,Titanium,Titanium,Automatic,30,40.0,5.2,28,Black,Sapphire,10000,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,22,Blue,Sapphire,9000,
-,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40.0,12.1,20,Black,Sapphire,9450,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,21,Blue,Sapphire,29800,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Blue,Sapphire,22300,
-,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,42.0,10.6,22,Black,Sapphire,8100,
-,IWC,Pilot's Watch Mark XVIII,Stainless Steel,Leather,Automatic,60,40.0,10.8,20,Black,Sapphire,3900,
-,A. Lange & Söhne,Saxonia,Rose Gold,Leather,Manual,30,38.5,7.8,18,Silver,Sapphire,23300,
-,Breguet,Classique,Rose Gold,Leather,Automatic,30,39.0,8.7,20,Silver,Sapphire,23200,
-,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,44.0,14.4,22,Black,Sapphire,6300,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38.0,12.5,20,White,Sapphire,5600,
-,Panerai,Luminor,Titanium,Leather,Manual,100,44.0,13.1,24,Black,Sapphire,6900,
-,Rolex,Daytona,Stainless Steel,Stainless Steel,Automatic,100,40.0,12.4,20,White,Sapphire,13500,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42.0,14.3,20,Black,Hesalite,4500,
-,Cartier,Santos,Stainless Steel,Leather,Automatic,100,39.8,9.1,20,Silver,Sapphire,6600,
-,Breitling,Superocean Heritage,Stainless Steel,Leather,Automatic,200,42.0,14.4,20,Black,Sapphire,4400,
-,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,300,41.0,12.0,20,Blue,Sapphire,2800,
-,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,40.0,7.5,20,Silver,Sapphire,6300,
-,Patek Philippe,Calatrava,18k Rose Gold,Leather,Manual,30,38.0,7.7,19,White,Sapphire,22900,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Black,Sapphire,22500,
-,Zenith,El Primero,Stainless Steel,Stainless Steel,Automatic,100,42.0,12.8,20,Blue,Sapphire,6900,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.0,11.0,20,Black,Sapphire,20200,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,40.4,12.6,20,Silver,Sapphire,7600,
-,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44.0,15.7,24,Black,Sapphire,6500,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,21,Blue,Sapphire,34000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Black,Sapphire,22000,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,White,Sapphire,9500,
-,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,41.0,14.6,20,Black,Sapphire,14000,
-,Breguet,Classique,18k Rose Gold,Leather,Manual,30,39.0,10.2,22,Silver,Sapphire,26000,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38.0,12.5,20,Silver,Sapphire,7000,
-,Blancpain,Fifty Fathoms,Stainless Steel,NATO strap,Automatic,300,45.0,15.4,23,Black,Sapphire,10000,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,22,Blue,Sapphire,11500,
-,Ulysse Nardin,Marine,Stainless Steel,Leather,Automatic,100,42.2,12.6,20,Blue,Sapphire,7500,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.5,11.0,22,Silver,Sapphire,20000,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.0,8.3,20,Blue,Sapphire,26000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Grey,Sapphire,17000,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,42.3,14.2,22,White,Sapphire,7800,
-,A. Lange & Söhne,Saxonia,18k Rose Gold,Leather,Manual,30,37.0,7.5,18,Silver,Sapphire,17500,
-,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,42.5,13.7,22,Blue,Sapphire,20000,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,41.0,10.9,26,Black,Sapphire,12000,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42.0,12.8,22,Silver,Sapphire,7500,
-,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300,45.0,15.5,23,Black,Sapphire,14000,
-,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,45.0,11.0,22,Blue,Sapphire,9500,
-,Breguet,Classique,18k White Gold,Leather,Manual,30,38.0,8.3,20,Silver,Sapphire,22000,
-,Piaget,Polo,Stainless Steel,Stainless Steel,Automatic,100,42.0,9.4,22,Blue,Sapphire,10500,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,22,Blue,Sapphire,29000,
-,Audemars Piguet,Royal Oak,Rose Gold,Leather,Automatic,50,37.0,9.8,20,Black,Sapphire,38500,
-,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,42.0,9.9,22,Blue,Sapphire,7500,
-,Breguet,Classique,Rose Gold,Leather,Automatic,30,39.0,10.2,20,Silver,Sapphire,25000,
-,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41.0,15.3,20,Black,Sapphire,5900,
-,Blancpain,Fifty Fathoms,Stainless Steel,NATO Strap,Automatic,300,45.0,15.5,23,Black,Sapphire,12000,
-,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38.0,12.5,20,Silver,Sapphire,6200,
-,Chopard,Mille Miglia,Stainless Steel,Rubber,Automatic,50,42.0,13.1,20,Black,Sapphire,6800,
-,Vacheron Constantin,Patrimony,White Gold,Leather,Manual,30,40.0,6.8,20,Silver,Sapphire,28000,
-,Panerai,Luminor,Titanium,Leather,Automatic,300,44.0,16.2,24,Black,Sapphire,9500,
-,Tudor,Black Bay,Stainless Steel,NATO Strap,Automatic,200,41.0,11.9,22,Black,Sapphire,3500,
-,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,42.0,14.5,22,Black,Sapphire,7200,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.0,12.3,22,Blue,Sapphire,7900,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.0,8.3,22,Blue,Sapphire,36000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Blue,Sapphire,28500,
-,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45.0,15.4,23,Black,Sapphire,15000,
-,Breguet,Classique,18K Yellow Gold,Leather,Automatic,30,39.0,10.2,20,Silver,Sapphire,26000,
-,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,50,42.0,13.5,22,Blue,Sapphire,6500,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,38.0,10.9,20,Blue,Sapphire,12000,
-,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44.0,14.5,24,Black,Sapphire,18500,
-,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30,43.0,11.5,23,Black,Sapphire,9500,
-,Montblanc,Star Legacy,Stainless Steel,Leather,Automatic,50,39.0,9.9,19,Silver,Sapphire,3500,
-,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40.0,12.5,20,Black,Sapphire,9900,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42.0,14.3,20,Black,Hesalite,4300,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,40.4,12.3,20,White,Sapphire,7500,
-,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,44.0,14.5,24,Black,Sapphire,15500,
-,Panerai,Luminor Marina,Stainless Steel,Leather,Manual,300,44.0,13.1,24,Black,Sapphire,5200,
-,Patek Philippe,Calatrava,White Gold,Leather,Automatic,30,37.0,8.5,18,White,Sapphire,25000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Blue,Sapphire,19500,
-,Vacheron Constantin,Patrimony,Rose Gold,Leather,Automatic,30,40.0,6.8,20,White,Sapphire,15000,
-,Blancpain,Fifty Fathoms,Titanium,Fabric,Automatic,300,45.0,15.4,23,Black,Sapphire,14000,
-,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42.0,10.9,25,Blue,Sapphire,7500,
-,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30,43.0,11.5,22,White,Sapphire,8500,
-,Rolex,Datejust,Stainless Steel,Jubilee Bracelet,Automatic,100,36.0,12.0,20,Blue,Sapphire,7650,
-,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42.0,14.3,20,Black,Hesalite,5200,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,20,Blue,Sapphire,67000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,9.8,20,Blue,Sapphire,25000,
-,Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,30,36.6,12.1,18,Silver,Sapphire,4700,
-,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,42.3,14.2,22,Blue,Sapphire,9100,
-,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,39.0,8.5,20,Silver,Sapphire,8200,
-,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45.0,15.5,23,Black,Sapphire,12500,
-,Breguet,Classique,18K Rose Gold,Leather,Automatic,30,39.0,9.9,22,White,Sapphire,27900,
-,Chopard,Mille Miglia,Stainless Steel,Rubber,Automatic,50,42.0,12.7,20,Black,Sapphire,6500,
-,Seiko,Prospex,Stainless Steel,Silicone,Automatic,200,44.3,13.1,22,Black,Hardlex,1200,
-,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41.0,14.8,22,Black,Sapphire,3800,
-,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,39.0,10.9,20,Black,Sapphire,4500,
-,Panerai,Luminor Marina,Titanium,Rubber,Automatic,300,44.0,15.7,24,Black,Sapphire,9500,
-,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,20,Blue,Sapphire,35000,
-,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41.0,10.4,20,Black,Sapphire,24000,
-,Breguet,Classique,18k Rose Gold,Leather,Automatic,30,38.5,8.3,20,White,Sapphire,21500,
-,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300,45.0,15.5,23,Black,Sapphire,13500,
-,Longines,Master Collection,Stainless Steel,Leather,Automatic,30,38.5,9.7,20,Blue,Sapphire,1800,
-,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.5,11.0,22,Blue,Sapphire,19000,
-,Frederique Constant,Classics,Stainless Steel,Leather,Automatic,50,40.0,10.6,20,Silver,Sapphire,1200,
+﻿w,Brand,Model,Case Material,Strap Material,Movement Type,Water Resistance,Case Diameter,Case Thickness,Band Width,Dial Color,Crystal Material,Price
+,Rolex,Submariner,Stainless Steel,Stainless Steel,Automatic,300,40,13,20,Black,Sapphire,9500
+,Omega,Seamaster,Titanium,Rubber,Automatic,600,43.5,14.5,21,Blue,Sapphire,5800
+,Tag Heuer,Carrera,Stainless Steel,Leather,Automatic,100,41,13,20,White,Sapphire,4200
+,Breitling,Navitimer,Stainless Steel,Stainless Steel,Automatic,30,43,14.3,22,Black,Sapphire,7900
+,Cartier,Tank Solo,Stainless Steel,Leather,Quartz,30,31,6.1,20,Silver,Sapphire,2800
+,Jaeger-LeCoultre,Reverso,Stainless Steel,Leather,Manual,30,42.9,9.2,20,Black,Sapphire,5500
+,Seiko,Prospex,Stainless Steel,Rubber,Automatic,200,44.3,12.9,20,Black,Sapphire,1400
+,Citizen,Promaster,Stainless Steel,Stainless Steel,Eco-Drive,200,42,13,22,Black,Mineral,1200
+,Tissot,Le Locle,Stainless Steel,Leather,Automatic,30,39.3,9.8,19,White,Sapphire,650
+,Hamilton,Khaki Field,Stainless Steel,Leather,Automatic,100,38,9.8,20,Black,Sapphire,495
+,Longines,Master Collection,Stainless Steel,Leather,Automatic,30,38.5,9.7,20,Silver,Sapphire,1150
+,Oris,Big Crown ProPilot,Stainless Steel,Textile,Automatic,100,41,12,20,Black,Sapphire,1800
+,Bell & Ross,Aviation,Stainless Steel,Rubber,Automatic,100,42,11.5,24,Black,Sapphire,4500
+,Sinn,104,Stainless Steel,Leather,Automatic,200,41,11.5,20,Black,Sapphire,1400
+,Breguet,Classique,18K White Gold,Leather,Manual,30,38,8.7,20,Silver,Sapphire,16000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Silver,Sapphire,22000
+,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41,11,22,Blue,Sapphire,19000
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42,14.5,20,Black,Sapphire,4500
+,Breitling,Superocean,Stainless Steel,Rubber,Automatic,500,42,13.3,20,Blue,Sapphire,3200
+,Panerai,Luminor Base Logo,Stainless Steel,Leather,Manual,100,44,10.5,22,Black,Sapphire,3900
+,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41,11.9,22,Black,Sapphire,3500
+,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40,12.5,20,Black,Sapphire,14000
+,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41,12.5,20,Black,Sapphire,4800
+,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,39,7.6,20,Silver,Sapphire,7500
+,Bell & Ross,BR 03-92,Ceramic,Rubber,Automatic,100,42,9.3,22,Black,Sapphire,4200
+,Montblanc,1858 Geosphere,Stainless Steel,Leather,Automatic,100,42,11.2,22,Black,Sapphire,6200
+,Cartier,Santos-Dumont,Stainless Steel,Leather,Quartz,30,38,7.5,18,Silver,Sapphire,3500
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Black,Sapphire,21000
+,Rolex,Datejust,Stainless Steel,Jubilee,Automatic,100,36,12,20,Silver,Sapphire,9000
+,Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,50,42,14.3,20,Black,Hesalite,5250
+,IWC,Portugieser,Stainless Steel,Alligator,Automatic,30,40.4,12.3,20,Silver,Sapphire,8800
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Black,Sapphire,17800
+,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45,15.4,23,Black,Sapphire,11500
+,Zenith,El Primero,Stainless Steel,Alligator,Automatic,100,42,12.8,20,Silver,Sapphire,6500
+,Breguet,Classique,18K Rose Gold,Leather,Automatic,30,39,8.7,20,Silver,Sapphire,23500
+,Piaget,Polo S,Stainless Steel,Stainless Steel,Automatic,100,42,9.4,24,Blue,Sapphire,10000
+,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100,44,12.5,22,Blue,Sapphire,9500
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41,11,20,Silver,Sapphire,21500
+,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30,43,12.3,23,Black,Sapphire,9800
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Blue,Sapphire,19900
+,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45,15.5,22,Black,Sapphire,14400
+,Breguet,Type XXI,Stainless Steel,Leather,Automatic,100,42,13.9,22,Silver,Sapphire,9500
+,Bulgari,Octo Finissimo,Titanium,Leather,Automatic,100,40,5.2,28,Black,Sapphire,12800
+,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,44,13.7,20,Black,Sapphire,6500
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,20,Blue,Sapphire,7800
+,Glashütte Original,Senator,Stainless Steel,Leather,Automatic,50,42,12.2,21,Silver,Sapphire,9200
+,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,42,9.3,20,Black,Sapphire,6500
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Silver,Sapphire,8400
+,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30,43,12.1,23,Silver,Sapphire,6200
+,Longines,Master Collection,Stainless Steel,Leather,Automatic,30,38.5,9.3,20,Blue,Sapphire,1600
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,20,Blue,Sapphire,29800
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Blue,Sapphire,24500
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Silver,Sapphire,7950
+,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,42,10.5,22,Black,Sapphire,8200
+,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45,15.4,23,Black,Sapphire,11500
+,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,100,42,13.1,22,Silver,Sapphire,9400
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,38,10.9,25,Blue,Sapphire,6700
+,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,42,11.4,20,Black,Sapphire,6100
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41,11,22,Blue,Sapphire,16300
+,Montblanc,1858,Stainless Steel,Leather,Automatic,100,42,12.8,22,Black,Sapphire,3600
+,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,300,44,12.5,22,Black,Sapphire,9500
+,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,41,11.2,20,Silver,Sapphire,8900
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,20,Blue,Sapphire,44500
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Blue,Sapphire,17000
+,Tudor,Black Bay,Stainless Steel,Fabric,Automatic,200,41,12.7,22,Black,Sapphire,4500
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Silver,Sapphire,8300
+,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44,13.1,24,Black,Sapphire,8900
+,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300,43.6,13.8,23,Black,Sapphire,12000
+,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,45,11,24,Blue,Sapphire,7500
+,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,50,42,14.1,22,Silver,Sapphire,6900
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,50,41,11,20,Blue,Sapphire,15500
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,22,Black,Sapphire,11200
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,39,9.4,20,Blue,Sapphire,18900
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,20,Blue,Sapphire,49800
+,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41,12.5,20,Black,Sapphire,5500
+,Panerai,Luminor,Titanium,Rubber,Automatic,300,44,15.7,24,Black,Sapphire,9600
+,Breguet,Type XX,Stainless Steel,Leather,Automatic,100,39.5,14.1,20,Black,Sapphire,8800
+,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300,43,13.4,23,Black,Sapphire,14700
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,22,Blue,Sapphire,10600
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41,11,20,Black,Sapphire,19200
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38,12.2,19,Silver,Sapphire,7500
+,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,42,12.7,20,Black,Sapphire,5600
+,Longines,HydroConquest,Stainless Steel,Stainless Steel,Automatic,300,43,12.8,22,Blue,Sapphire,1400
+,Rolex,Submariner,Stainless Steel,Stainless Steel,Automatic,300,40,13,20,Black,Sapphire,9500
+,Omega,Seamaster,Titanium,Rubber,Automatic,600,43.5,14.5,21,Blue,Sapphire,5800
+,Tag Heuer,Carrera,Stainless Steel,Leather,Automatic,100,41,13,20,White,Sapphire,4200
+,Breitling,Navitimer,Stainless Steel,Stainless Steel,Automatic,30,43,14.3,22,Black,Sapphire,7900
+,Cartier,Tank Solo,Stainless Steel,Leather,Quartz,30,31,6.1,20,Silver,Sapphire,2800
+,Jaeger-LeCoultre,Reverso,Stainless Steel,Leather,Manual,30,42.9,9.2,20,Black,Sapphire,5500
+,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41,12.8,22,Black,Sapphire,3500
+,Seiko,Prospex,Stainless Steel,Silicone,Automatic,200,42.3,13.4,22,Blue,Hardlex,650
+,Citizen,Promaster,Titanium,Titanium,Eco-Drive,200,46.5,15,23,Black,Sapphire,995
+,Hamilton,Khaki Field Auto,Stainless Steel,Leather,Automatic,100,38,9.9,20,Black,Sapphire,545
+,Bulova,Precisionist,Stainless Steel,Stainless Steel,Quartz,300,46.5,17.5,24,Black,Mineral,650
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42,14.3,20,Black,Hesalite,5500
+,Breitling,Superocean Heritage,Stainless Steel,Rubber,Automatic,200,42,14.4,22,Black,Sapphire,4800
+,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,40,8.8,20,Silver,Sapphire,6500
+,Cartier,Santos,Stainless Steel,Stainless Steel,Automatic,100,39.8,9.1,21.5,Silver,Sapphire,7500
+,Zenith,Elite,Stainless Steel,Leather,Automatic,50,40.5,9.2,20,Silver,Sapphire,4500
+,Panerai,Luminor Base,Stainless Steel,Leather,Manual,100,44,10.5,24,Black,Sapphire,5800
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Silver,Sapphire,21000
+,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41,10.9,20,Black,Sapphire,3800
+,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41,12.7,22,Black,Sapphire,3900
+,Longines,Conquest VHP,Stainless Steel,Stainless Steel,Quartz,50,41,12.1,20,Black,Sapphire,1500
+,Sinn,U1,Stainless Steel,Rubber,Automatic,1000,44,14.3,22,Black,Sapphire,2500
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,20,Blue,Sapphire,38000
+,Audemars Piguet,Royal Oak,Rose Gold,Rose Gold,Automatic,50,41,9.8,20,Blue,Sapphire,55000
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41,11,22,Blue,Sapphire,21000
+,A. Lange & Sohne,Saxonia,White Gold,Leather,Manual,30,38.5,7.8,18,Silver,Sapphire,23000
+,Breguet,Classique,Rose Gold,Leather,Manual,30,38.5,8.3,20,Silver,Sapphire,23000
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Blue,Sapphire,8500
+,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300,45,15.5,23,Black,Sapphire,14000
+,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44,14.5,24,Blue,Sapphire,16000
+,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44,15.7,24,Black,Sapphire,8500
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42,12.8,20,Silver,Sapphire,6000
+,Piaget,Altiplano,White Gold,Leather,Manual,30,38,6.1,20,Silver,Sapphire,16500
+,Seiko,Prospex,Stainless Steel,Silicone,Automatic,200,44.3,12.7,20,Blue,Sapphire,1200
+,Panerai,Luminor Due,Stainless Steel,Leather,Automatic,30,38,11.2,20,Black,Sapphire,6500
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Blue,Sapphire,9800
+,Blancpain,Fifty Fathoms,Titanium,Rubber,Automatic,300,45,15.5,23,Black,Sapphire,16800
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.5,20,Black,Sapphire,19800
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,20,Blue,Sapphire,47000
+,Breguet,Classique,18K Rose Gold,Leather,Automatic,30,40,6.8,20,White,Sapphire,19000
+,Vacheron Constantin,Patrimony,18K White Gold,Leather,Manual,30,40,6.8,20,Silver,Sapphire,18500
+,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,44,15,22,Black,Sapphire,5800
+,Longines,Conquest,Stainless Steel,Stainless Steel,Automatic,300,41,13.2,20,Black,Sapphire,2200
+,Montblanc,1858,Stainless Steel,Leather,Manual,30,44,12.3,22,Black,Sapphire,3500
+,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40,12.5,20,Black,Sapphire,9950
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42,13.7,20,Black,Hesalite,4950
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,20,Blue,Sapphire,38000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Blue,Sapphire,22000
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Silver,Sapphire,7500
+,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,39,7.6,20,Silver,Sapphire,8900
+,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300,45,15.4,23,Black,Sapphire,13900
+,Breguet,Classique,Rose Gold,Leather,Manual,30,40,6.8,20,Silver,Sapphire,20500
+,Ulysse Nardin,Marine,Titanium,Rubber,Automatic,300,44,14.5,22,Blue,Sapphire,9500
+,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,41,14.5,20,Black,Sapphire,16000
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38,12.8,20,White,Sapphire,5500
+,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,41,11.8,20,Black,Sapphire,8200
+,Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,50,42,13.2,20,Black,Hesalite,5500
+,Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,30,33,10,18,Silver,Sapphire,6500
+,Breitling,Superocean,Stainless Steel,Rubber,Automatic,500,42,13.3,20,Blue,Sapphire,3600
+,Patek Philippe,Calatrava,Rose Gold,Leather,Manual,30,36,7.5,18,White,Sapphire,18000
+,Hublot,Big Bang,Titanium,Rubber,Automatic,100,42,14.5,24,Black,Sapphire,8900
+,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45,15.4,23,Black,Sapphire,13500
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Blue,Sapphire,26000
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42,12.8,22,Black,Sapphire,6500
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41.5,12.3,22,Silver,Sapphire,7800
+,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,38,7.6,20,Silver,Sapphire,4500
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,22,Blue,Sapphire,29800
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Black,Sapphire,23100
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Silver,Sapphire,7950
+,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41.5,11,22,Blue,Sapphire,18900
+,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45,15.5,23,Black,Sapphire,12800
+,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,44,14.5,26,Black,Sapphire,17900
+,Breguet,Classique,18K Rose Gold,Leather,Manual,30,39,8.7,20,Silver,Sapphire,15200
+,Ulysse Nardin,Marine,Stainless Steel,Leather,Automatic,100,42.2,14.2,22,Blue,Sapphire,8400
+,Zenith,Defy,Titanium,Rubber,Automatic,100,41,10.8,22,Blue,Sapphire,9500
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,22,Silver,Sapphire,9200
+,Panerai,Luminor,Stainless Steel,Leather,Manual,100,44,13.1,24,Black,Sapphire,7500
+,Seiko,Prospex,Stainless Steel,Silicone,Automatic,200,43,13.2,22,Blue,Hardlex,1300
+,Tissot,Le Locle,Stainless Steel,Leather,Automatic,30,39.3,9.8,20,Silver,Sapphire,650
+,Longines,Master Collection,Stainless Steel,Leather,Automatic,30,40,10.3,20,Black,Sapphire,2500
+,Hamilton,Jazzmaster,Stainless Steel,Leather,Automatic,50,40,11.2,20,Silver,Sapphire,1150
+,Montblanc,Heritage,Stainless Steel,Leather,Automatic,50,40,9.9,20,Silver,Sapphire,2750
+,Rado,True Thinline,High-Tech Ceramic,Leather,Quartz,30,39,5,22,Black,Sapphire,1600
+,Frederique Constant,Classics,Stainless Steel,Leather,Automatic,50,40,10.5,20,Silver,Sapphire,1400
+,Zenith,Elite,Stainless Steel,Leather,Automatic,50,40.5,8.2,22,White,Sapphire,5500
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,38,10.9,25,Black,Sapphire,8700
+,Ulysse Nardin,Marine Torpilleur,Stainless Steel,Leather,Automatic,50,42,11.2,20,Blue,Sapphire,7900
+,Sinn,U50,German Submarine Steel,Silicone,Automatic,500,45,14.7,22,Black,Sapphire,3350
+,Rolex,Datejust,Stainless Steel,Jubilee,Automatic,100,36,12.5,20,Black,Sapphire,8000
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42,13.5,20,Black,Sapphire,6500
+,Cartier,Ballon Bleu,Stainless Steel,Leather,Automatic,30,33,10,16,Silver,Sapphire,4500
+,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Quartz,300,43,10.8,20,Blue,Sapphire,1800
+,Breitling,Superocean,Stainless Steel,Rubber,Automatic,2000,42,13.3,20,Blue,Sapphire,3600
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Blue,Sapphire,8900
+,Panerai,Luminor Marina,Titanium,Leather,Manual,300,44,13.1,24,Black,Sapphire,5700
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,22,Blue,Sapphire,34000
+,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,39,7.6,20,Silver,Sapphire,6800
+,Bell & Ross,BR V2-92,Stainless Steel,Rubber,Automatic,100,41,9.7,22,Black,Sapphire,2500
+,Montblanc,1858,Bronze,Leather,Automatic,100,44,12.8,22,Black,Sapphire,5300
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,22,Blue,Sapphire,34000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Black,Sapphire,22000
+,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41,11,21,Blue,Sapphire,17500
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,13.1,22,Silver,Sapphire,8500
+,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,44.5,14.5,22,Black,Sapphire,15000
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38,12.4,19,White,Sapphire,6000
+,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,42,12.7,20,Black,Sapphire,5000
+,Panerai,Luminor,Titanium,Rubber,Automatic,300,44,13.1,24,Black,Sapphire,8500
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,22,Blue,Sapphire,9000
+,Blancpain,Fifty Fathoms,Stainless Steel,NATO Strap,Automatic,300,45,15.5,23,Black,Sapphire,12500
+,Bulgari,Octo Finissimo,Titanium,Leather,Automatic,30,40,5.5,21,Black,Sapphire,10000
+,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41,12.7,22,Black,Sapphire,3800
+,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44,13.1,22,Black,Sapphire,8900
+,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44,14.5,25,Black,Sapphire,16800
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,40.9,12.3,20,Silver,Sapphire,6900
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Blue,Sapphire,24500
+,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41.5,11,21,Silver,Sapphire,19500
+,Breguet,Classique,18K White Gold,Leather,Automatic,30,39,8.7,20,Silver,Sapphire,24500
+,Piaget,Altiplano,18K Rose Gold,Leather,Manual,30,38,6,20,White,Sapphire,20800
+,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300,45,15.5,23,Black,Sapphire,13000
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,41,10.9,22,Black,Sapphire,9700
+,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,50,42,14.1,22,Silver,Sapphire,7400
+,Breitling,Superocean Heritage II,Stainless Steel,Rubber,Automatic,200,44,14.2,22,Black,Sapphire,4300
+,Cartier,Santos de Cartier,Stainless Steel,Stainless Steel,Automatic,100,39.8,9.1,20,Silver,Sapphire,6500
+,Omega,Speedmaster,Stainless Steel,Leather,Manual,50,42,13.7,20,Black,Hesalite,5500
+,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40,12.4,20,Black,Sapphire,9100
+,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,40,8.8,20,Silver,Sapphire,7500
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Blue,Sapphire,20900
+,IWC,Pilot's Watch Mark XVIII,Stainless Steel,Leather,Automatic,60,40,10.8,20,Black,Sapphire,4200
+,Patek Philippe,Calatrava,18K White Gold,Leather,Automatic,30,39,8.6,20,Silver,Sapphire,22000
+,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Quartz,300,32,9.5,15,Blue,Sapphire,1700
+,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41,12.7,22,Black,Sapphire,3600
+,Rolex,Datejust,Stainless Steel,Jubilee Bracelet,Automatic,100,36,12.5,20,Silver,Sapphire,8900
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42,13.5,20,Black,Sapphire,6800
+,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Quartz,300,43,10.8,21,Blue,Sapphire,2600
+,Breitling,Superocean Heritage,Stainless Steel,Leather,Automatic,200,42,14.4,20,Black,Sapphire,4400
+,Cartier,Ballon Bleu,18K Rose Gold,Leather,Automatic,30,33,10,18,Silver,Sapphire,13000
+,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,39,8.5,20,Silver,Sapphire,7500
+,Tudor,Black Bay GMT,Stainless Steel,Stainless Steel,Automatic,200,41,14.5,22,Black,Sapphire,4500
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38,12.5,19,White,Sapphire,6900
+,Longines,HydroConquest,Stainless Steel,Stainless Steel,Automatic,300,41,12.7,20,Black,Sapphire,1800
+,Oris,Divers Sixty-Five,Stainless Steel,Leather,Automatic,100,40,12.9,20,Blue,Sapphire,1500
+,Hamilton,Khaki Field,Stainless Steel,NATO Strap,Automatic,100,38,9.7,20,Black,Sapphire,595
+,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,42,13.2,22,Black,Sapphire,7500
+,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41,15.3,22,Black,Sapphire,5400
+,Patek Philippe,Calatrava,White Gold,Leather,Manual,30,37,7.7,20,White,Sapphire,25000
+,Hublot,Big Bang,Carbon Fiber,Rubber,Automatic,100,44,14.5,25,Black,Sapphire,15000
+,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,50,38,12.6,20,Silver,Sapphire,7500
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Blue,Sapphire,25000
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,50,41,11,22,Blue,Sapphire,18000
+,Breguet,Classique,White Gold,Leather,Automatic,30,39,8.7,21,Silver,Sapphire,20000
+,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100,42,12.8,22,Blue,Sapphire,8500
+,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45,15.5,23,Black,Sapphire,10500
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,22,Black,Sapphire,9000
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,21,Blue,Sapphire,51000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Blue,Sapphire,22000
+,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,46.2,15,20,Black,Sapphire,7500
+,Blancpain,Fifty Fathoms,Titanium,Fabric,Automatic,300,45,15.4,23,Black,Sapphire,14500
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41,11,22,Silver,Sapphire,21500
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42,12.8,20,Black,Sapphire,7500
+,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44,14.5,22,Black,Sapphire,15000
+,Breguet,Classique,18K Rose Gold,Leather,Automatic,30,39,10.2,22,Silver,Sapphire,18000
+,Chopard,Happy Sport,Stainless Steel,Leather,Quartz,30,30,10.5,17,White,Sapphire,5000
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,41,10.9,22,Blue,Sapphire,11500
+,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44,15.7,24,Black,Sapphire,8000
+,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41,14.8,22,Black,Sapphire,3800
+,Panerai,Luminor,Stainless Steel,Leather,Manual,100,44,13.1,24,Black,Sapphire,6400
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Silver,Sapphire,8900
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Blue,Sapphire,20400
+,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41,11,21,Blue,Sapphire,22000
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,21,Blue,Sapphire,62500
+,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45,15.5,23,Black,Sapphire,14900
+,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,42,12.7,20,Silver,Sapphire,5900
+,Longines,Master Collection,Stainless Steel,Leather,Automatic,30,40,9.4,20,Silver,Sapphire,1500
+,Montblanc,Heritage,Stainless Steel,Leather,Automatic,50,40,9.9,20,Black,Sapphire,2700
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42,12.8,20,Black,Sapphire,6500
+,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,41,11.8,21,Blue,Sapphire,7800
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42,13.8,20,Black,Sapphire,5300
+,Tag Heuer,Monaco,Stainless Steel,Leather,Automatic,100,39,14.5,22,Blue,Sapphire,5900
+,Breitling,Superocean,Stainless Steel,Rubber,Automatic,1000,44,14.2,22,Blue,Sapphire,3800
+,Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,30,42,13,22,Silver,Sapphire,7500
+,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,39,7.5,20,White,Sapphire,6200
+,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40,12.5,20,Black,Sapphire,9500
+,Omega,Aqua Terra,Stainless Steel,Stainless Steel,Automatic,150,41.5,13,20,Silver,Sapphire,4700
+,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,300,41,12.5,20,Black,Sapphire,2700
+,Breitling,Avenger II,Stainless Steel,Rubber,Automatic,300,43,16.5,22,Black,Sapphire,4600
+,Cartier,Santos,Stainless Steel,Leather,Automatic,100,35.1,8.8,22,Silver,Sapphire,5300
+,Rolex,Daytona,Yellow Gold,Leather,Automatic,100,40,12.4,20,Ivory,Sapphire,39500
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42,14.3,20,Black,Sapphire,5400
+,TAG Heuer,Monaco,Stainless Steel,Leather,Automatic,100,39,14,22,Blue,Sapphire,6550
+,Cartier,Santos-Dumont,Stainless Steel,Leather,Quartz,30,43.5,7.3,23,Silver,Sapphire,5300
+,Breitling,Superocean,Stainless Steel,Rubber,Automatic,1000,42,13.3,20,Blue,Sapphire,3850
+,Patek Philippe,Calatrava,White Gold,Leather,Automatic,30,39,8.3,20,Silver,Sapphire,25800
+,Tudor,Black Bay,Stainless Steel,Fabric,Automatic,200,41,11.9,22,Black,Sapphire,4100
+,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300,45,15.5,23,Black,Sapphire,12900
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Blue,Sapphire,6900
+,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41,11,22,Blue,Sapphire,19800
+,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,36,12,20,Black,Sapphire,8100
+,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,36,12.5,20,Black,Sapphire,6500
+,Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,50,42,14.3,20,Black,Hesalite,5400
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,20,Blue,Sapphire,44000
+,Cartier,Ballon Bleu,18K Rose Gold,Leather,Automatic,30,33,10,18,Silver,Sapphire,13200
+,Hublot,Classic Fusion,18K King Gold,Rubber,Automatic,50,42,10.5,22,Blue,Sapphire,20200
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Blue,Sapphire,24800
+,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41,12.8,22,Black,Sapphire,4800
+,Tudor,Black Bay GMT,Stainless Steel,Stainless Steel,Automatic,200,41,14.5,22,Black,Sapphire,4000
+,Breguet,Classique,18K White Gold,Leather,Manual,30,40,7,20,White,Sapphire,22500
+,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300,45,15.4,23,Black,Sapphire,12500
+,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,42,12.7,22,Black,Sapphire,6900
+,Panerai,Luminor,Titanium,Leather,Automatic,100,44,15.7,24,Black,Sapphire,7500
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Blue,Sapphire,25000
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,22,Blue,Sapphire,70000
+,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41,10.8,20,Black,Sapphire,5500
+,Blancpain,Fifty Fathoms,Titanium,Fabric,Automatic,300,45,15.4,23,Black,Sapphire,12000
+,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100,44,14.4,22,Blue,Sapphire,7500
+,Breguet,Classique,Rose Gold,Leather,Automatic,30,38,8.3,20,Silver,Sapphire,20000
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,38,10.9,22,Black,Sapphire,8500
+,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,42,14.1,24,Black,Sapphire,12000
+,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,100,42,14.1,20,Silver,Sapphire,6000
+,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,41,11,22,Blue,Sapphire,12000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Black,Sapphire,22000
+,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,42,10.5,22,Blue,Sapphire,8500
+,Panerai,Luminor Marina,Stainless Steel,Leather,Manual,300,44,15.7,24,Black,Sapphire,7200
+,Breguet,Classique,18K White Gold,Leather,Manual,30,40,6.1,20,Silver,Sapphire,16000
+,Chopard,Happy Sport,Stainless Steel,Stainless Steel,Quartz,30,30,7.2,15,Silver,Sapphire,5800
+,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100,42.2,12.6,22,Blue,Sapphire,8900
+,IWC,Portugieser Chronograph,Stainless Steel,Leather,Automatic,30,41,13.1,20,White,Sapphire,7600
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,20,Blue,Sapphire,57000
+,Montblanc,1858 Geosphere,Titanium,Leather,Automatic,100,42,12.8,22,Black,Sapphire,6500
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.5,11,22,Blue,Sapphire,21000
+,Zenith,Chronomaster El Primero,Stainless Steel,Leather,Automatic,100,38,12.5,20,Silver,Sapphire,6000
+,Rolex,Daytona,18K Yellow Gold,Leather,Automatic,100,40,12.4,20,Champagne,Sapphire,29500
+,Audemars Piguet,Royal Oak,Rose Gold,Rose Gold,Automatic,50,37,9.8,18,Blue,Sapphire,36500
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,22,Blue,Sapphire,51000
+,IWC,Portuguese,Stainless Steel,Leather,Automatic,30,42.3,14.2,22,White,Sapphire,8800
+,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300,45,15.4,23,Black,Sapphire,13500
+,Hublot,Big Bang,Carbon Fiber,Rubber,Automatic,100,44,14.5,22,Black,Sapphire,19500
+,Ulysse Nardin,Marine,Stainless Steel,Rubber,Automatic,100,43,12.6,22,Blue,Sapphire,7000
+,Breguet,Classique,18K White Gold,Leather,Manual,30,38,7.5,20,Silver,Sapphire,23000
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,25,Black,Sapphire,9500
+,Piaget,Altiplano,18K White Gold,Leather,Manual,30,40,6.4,20,Silver,Sapphire,18500
+,Vacheron Constantin,Patrimony,18K Rose Gold,Leather,Manual,30,42,7.7,20,Silver,Sapphire,22500
+,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44,15.7,22,Black,Sapphire,7500
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Blue,Sapphire,6500
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Blue,Sapphire,20000
+,Hublot,Big Bang,Carbon Fiber,Rubber,Automatic,100,44,14.5,26,Black,Sapphire,12000
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,22,Blue,Sapphire,6500
+,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,42,11.4,22,Black,Sapphire,6200
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41,11,22,Blue,Sapphire,15000
+,Piaget,Altiplano,White Gold,Leather,Manual,30,40,6.4,20,Silver,Sapphire,22000
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42,12.8,22,Black,Sapphire,5500
+,Breguet,Classique,White Gold,Leather,Automatic,30,39,10.2,22,Silver,Sapphire,19000
+,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41,12.7,22,Black,Sapphire,3500
+,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,36,12.5,20,Blue,Sapphire,7400
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42,14.3,20,Black,Hesalite,5000
+,Cartier,Santos,Stainless Steel,Stainless Steel,Automatic,100,39.8,9.1,20,Silver,Sapphire,6200
+,TAG Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,300,43,12.5,21,Black,Sapphire,3100
+,Breitling,Superocean,Stainless Steel,Rubber,Automatic,1000,42,13.3,20,Blue,Sapphire,4100
+,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44,13.1,24,Black,Sapphire,6500
+,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41,12.7,22,Black,Sapphire,3800
+,Zenith,Elite Classic,Stainless Steel,Leather,Automatic,50,39,8.2,20,Silver,Sapphire,4900
+,Longines,Conquest Classic,Stainless Steel,Leather,Automatic,50,40,10.8,20,Silver,Sapphire,1850
+,Montblanc,Star Legacy,Stainless Steel,Leather,Automatic,50,42,11.4,22,White,Sapphire,3900
+,Baume & Mercier,Clifton Baumatic,Stainless Steel,Leather,Automatic,50,40,10.3,20,Silver,Sapphire,2750
+,Rolex,Datejust,Stainless Steel,Jubilee Bracelet,Automatic,100,41,11.8,20,Blue,Sapphire,9500
+,Omega,Speedmaster Moonwatch,Stainless Steel,Stainless Steel,Manual,50,42,13.8,20,Black,Hesalite,5350
+,Breitling,Superocean Heritage,Stainless Steel,Stainless Steel,Automatic,200,44,14.2,22,Blue,Sapphire,3250
+,Cartier,Santos-Dumont,18K Yellow Gold,Leather,Manual,30,27.5,6.5,18,Silver,Sapphire,14200
+,Tag Heuer,Monaco,Stainless Steel,Leather,Automatic,100,39,14,22,Blue,Sapphire,4950
+,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,40,8.5,20,Silver,Sapphire,6500
+,Panerai,Luminor,Titanium,Rubber,Manual,300,44,15.6,24,Black,Sapphire,8500
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Blue,Sapphire,27000
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,40.4,12.3,20,Silver,Sapphire,7250
+,Patek Philippe,Calatrava,18K White Gold,Leather,Manual,30,38,8.3,20,White,Sapphire,25000
+,Bell & Ross,BR 03-92,Ceramic,Rubber,Automatic,100,42,9.8,24,Black,Sapphire,3800
+,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,36,12.5,20,Silver,Sapphire,8000
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42,14.3,20,Black,Hesalite,4500
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,20,Blue,Sapphire,52000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Blue,Sapphire,28500
+,IWC,Pilot's Watch Mark,Stainless Steel,Leather,Automatic,60,41,12.5,20,Black,Sapphire,6800
+,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,42,14.1,24,Black,Sapphire,16000
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42,12.8,20,Black,Sapphire,6500
+,Breguet,Classique,18K White Gold,Leather,Automatic,30,39,8.7,20,Silver,Sapphire,19000
+,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300,45,15.5,23,Black,Sapphire,13500
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,25,Black,Sapphire,8000
+,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30,43,12.5,23,Silver,Sapphire,10000
+,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40,12.5,20,Black,Sapphire,9700
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,21,Blue,Sapphire,29800
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42,14.3,20,Black,Hesalite,5350
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Blue,Sapphire,18500
+,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,43,15,22,Black,Sapphire,4950
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42,12.8,20,White,Sapphire,7900
+,Cartier,Santos-Dumont,Stainless Steel,Leather,Manual,30,31.4,7.3,18,Silver,Sapphire,4500
+,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44,14.5,24,Black,Sapphire,16000
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,22,Blue,Sapphire,12800
+,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,40,8.8,20,Silver,Sapphire,8500
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Blue,Sapphire,8500
+,Panerai,Luminor,Titanium,Rubber,Automatic,300,44,13.1,24,Black,Sapphire,7500
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,20,Blue,Sapphire,39000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,37,9.8,20,Blue,Sapphire,19500
+,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44,14.5,24,Black,Sapphire,13000
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42,12.8,20,White,Sapphire,7500
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41,11,22,Blue,Sapphire,23000
+,Breguet,Classique,18K White Gold,Leather,Manual,30,40,7,20,Silver,Sapphire,24000
+,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300,45,15.5,23,Black,Sapphire,11000
+,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,44,14.5,22,Black,Sapphire,6000
+,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,36,12,20,Silver,Sapphire,7500
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Automatic,50,42,13.7,20,Black,Sapphire,6500
+,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,300,43,13,21,Blue,Sapphire,3700
+,Breitling,Superocean,Stainless Steel,Rubber,Automatic,200,44,14.2,22,Black,Sapphire,4500
+,Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,30,42,13,22,Silver,Sapphire,7500
+,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,40,8.8,20,Silver,Sapphire,6000
+,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40,12.5,20,Black,Sapphire,9500
+,Omega,Constellation,Stainless Steel,Stainless Steel,Automatic,100,39,10.6,20,Black,Sapphire,4800
+,Tag Heuer,Monaco,Stainless Steel,Leather,Automatic,100,39,14.5,22,Blue,Sapphire,5200
+,Breitling,Chronomat,Stainless Steel,Stainless Steel,Automatic,200,44,17,22,Blue,Sapphire,6900
+,Cartier,Santos,Stainless Steel,Stainless Steel,Automatic,100,35.1,8.8,18,Silver,Sapphire,5500
+,Rolex,Datejust,Stainless Steel,Stainless Steel,Automatic,100,41,11.7,20,White,Sapphire,8000
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,21,Blue,Sapphire,40000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,37,9,16,Blue,Sapphire,18000
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,40.4,12.3,22,White,Sapphire,7500
+,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44,14.5,25,Black,Sapphire,14000
+,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45,15.4,23,Black,Sapphire,14000
+,Breguet,Classique,Rose Gold,Leather,Manual,30,40,6.8,20,Silver,Sapphire,25000
+,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,39,7.8,20,Silver,Sapphire,6500
+,Zenith,El Primero,Stainless Steel,Stainless Steel,Automatic,100,42,12.8,20,Blue,Sapphire,7000
+,Bulgari,Octo Finissimo,Titanium,Titanium,Automatic,30,40,5.2,28,Black,Sapphire,10000
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,22,Blue,Sapphire,9000
+,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40,12.1,20,Black,Sapphire,9450
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.8,8.3,21,Blue,Sapphire,29800
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Blue,Sapphire,22300
+,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,42,10.6,22,Black,Sapphire,8100
+,IWC,Pilot's Watch Mark XVIII,Stainless Steel,Leather,Automatic,60,40,10.8,20,Black,Sapphire,3900
+,A. Lange & Söhne,Saxonia,Rose Gold,Leather,Manual,30,38.5,7.8,18,Silver,Sapphire,23300
+,Breguet,Classique,Rose Gold,Leather,Automatic,30,39,8.7,20,Silver,Sapphire,23200
+,Chopard,Mille Miglia,Stainless Steel,Leather,Automatic,50,44,14.4,22,Black,Sapphire,6300
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38,12.5,20,White,Sapphire,5600
+,Panerai,Luminor,Titanium,Leather,Manual,100,44,13.1,24,Black,Sapphire,6900
+,Rolex,Daytona,Stainless Steel,Stainless Steel,Automatic,100,40,12.4,20,White,Sapphire,13500
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42,14.3,20,Black,Hesalite,4500
+,Cartier,Santos,Stainless Steel,Leather,Automatic,100,39.8,9.1,20,Silver,Sapphire,6600
+,Breitling,Superocean Heritage,Stainless Steel,Leather,Automatic,200,42,14.4,20,Black,Sapphire,4400
+,Tag Heuer,Aquaracer,Stainless Steel,Stainless Steel,Automatic,300,41,12,20,Blue,Sapphire,2800
+,Jaeger-LeCoultre,Master Ultra Thin,Stainless Steel,Leather,Automatic,50,40,7.5,20,Silver,Sapphire,6300
+,Patek Philippe,Calatrava,18K Rose Gold,Leather,Manual,30,38,7.7,19,White,Sapphire,22900
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Black,Sapphire,22500
+,Zenith,El Primero,Stainless Steel,Stainless Steel,Automatic,100,42,12.8,20,Blue,Sapphire,6900
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41,11,20,Black,Sapphire,20200
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,40.4,12.6,20,Silver,Sapphire,7600
+,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,44,15.7,24,Black,Sapphire,6500
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,21,Blue,Sapphire,34000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Black,Sapphire,22000
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,White,Sapphire,9500
+,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,41,14.6,20,Black,Sapphire,14000
+,Breguet,Classique,18K Rose Gold,Leather,Manual,30,39,10.2,22,Silver,Sapphire,26000
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38,12.5,20,Silver,Sapphire,7000
+,Blancpain,Fifty Fathoms,Stainless Steel,NATO strap,Automatic,300,45,15.4,23,Black,Sapphire,10000
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,22,Blue,Sapphire,11500
+,Ulysse Nardin,Marine,Stainless Steel,Leather,Automatic,100,42.2,12.6,20,Blue,Sapphire,7500
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.5,11,22,Silver,Sapphire,20000
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40,8.3,20,Blue,Sapphire,26000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Grey,Sapphire,17000
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,42.3,14.2,22,White,Sapphire,7800
+,A. Lange & Söhne,Saxonia,18K Rose Gold,Leather,Manual,30,37,7.5,18,Silver,Sapphire,17500
+,Vacheron Constantin,Overseas,Stainless Steel,Rubber,Automatic,150,42.5,13.7,22,Blue,Sapphire,20000
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,41,10.9,26,Black,Sapphire,12000
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,42,12.8,22,Silver,Sapphire,7500
+,Blancpain,Fifty Fathoms,Stainless Steel,Rubber,Automatic,300,45,15.5,23,Black,Sapphire,14000
+,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,45,11,22,Blue,Sapphire,9500
+,Breguet,Classique,18K White Gold,Leather,Manual,30,38,8.3,20,Silver,Sapphire,22000
+,Piaget,Polo,Stainless Steel,Stainless Steel,Automatic,100,42,9.4,22,Blue,Sapphire,10500
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,22,Blue,Sapphire,29000
+,Audemars Piguet,Royal Oak,Rose Gold,Leather,Automatic,50,37,9.8,20,Black,Sapphire,38500
+,Hublot,Classic Fusion,Titanium,Rubber,Automatic,50,42,9.9,22,Blue,Sapphire,7500
+,Breguet,Classique,Rose Gold,Leather,Automatic,30,39,10.2,20,Silver,Sapphire,25000
+,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,41,15.3,20,Black,Sapphire,5900
+,Blancpain,Fifty Fathoms,Stainless Steel,NATO Strap,Automatic,300,45,15.5,23,Black,Sapphire,12000
+,Zenith,El Primero,Stainless Steel,Leather,Automatic,100,38,12.5,20,Silver,Sapphire,6200
+,Chopard,Mille Miglia,Stainless Steel,Rubber,Automatic,50,42,13.1,20,Black,Sapphire,6800
+,Vacheron Constantin,Patrimony,White Gold,Leather,Manual,30,40,6.8,20,Silver,Sapphire,28000
+,Panerai,Luminor,Titanium,Leather,Automatic,300,44,16.2,24,Black,Sapphire,9500
+,Tudor,Black Bay,Stainless Steel,NATO Strap,Automatic,200,41,11.9,22,Black,Sapphire,3500
+,Panerai,Luminor Marina,Stainless Steel,Leather,Automatic,300,42,14.5,22,Black,Sapphire,7200
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,41,12.3,22,Blue,Sapphire,7900
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40,8.3,22,Blue,Sapphire,36000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Blue,Sapphire,28500
+,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45,15.4,23,Black,Sapphire,15000
+,Breguet,Classique,18K Yellow Gold,Leather,Automatic,30,39,10.2,20,Silver,Sapphire,26000
+,Zenith,Chronomaster,Stainless Steel,Leather,Automatic,50,42,13.5,22,Blue,Sapphire,6500
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,38,10.9,20,Blue,Sapphire,12000
+,Hublot,Big Bang,Titanium,Rubber,Automatic,100,44,14.5,24,Black,Sapphire,18500
+,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30,43,11.5,23,Black,Sapphire,9500
+,Montblanc,Star Legacy,Stainless Steel,Leather,Automatic,50,39,9.9,19,Silver,Sapphire,3500
+,Rolex,GMT-Master II,Stainless Steel,Stainless Steel,Automatic,100,40,12.5,20,Black,Sapphire,9900
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42,14.3,20,Black,Hesalite,4300
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,40.4,12.3,20,White,Sapphire,7500
+,Hublot,Big Bang,Ceramic,Rubber,Automatic,100,44,14.5,24,Black,Sapphire,15500
+,Panerai,Luminor Marina,Stainless Steel,Leather,Manual,300,44,13.1,24,Black,Sapphire,5200
+,Patek Philippe,Calatrava,White Gold,Leather,Automatic,30,37,8.5,18,White,Sapphire,25000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Blue,Sapphire,19500
+,Vacheron Constantin,Patrimony,Rose Gold,Leather,Automatic,30,40,6.8,20,White,Sapphire,15000
+,Blancpain,Fifty Fathoms,Titanium,Fabric,Automatic,300,45,15.4,23,Black,Sapphire,14000
+,Girard-Perregaux,Laureato,Stainless Steel,Stainless Steel,Automatic,100,42,10.9,25,Blue,Sapphire,7500
+,Jaquet Droz,Grande Seconde,Stainless Steel,Leather,Automatic,30,43,11.5,22,White,Sapphire,8500
+,Rolex,Datejust,Stainless Steel,Jubilee Bracelet,Automatic,100,36,12,20,Blue,Sapphire,7650
+,Omega,Speedmaster,Stainless Steel,Stainless Steel,Manual,50,42,14.3,20,Black,Hesalite,5200
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,20,Blue,Sapphire,67000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,9.8,20,Blue,Sapphire,25000
+,Cartier,Ballon Bleu,Stainless Steel,Stainless Steel,Automatic,30,36.6,12.1,18,Silver,Sapphire,4700
+,IWC,Portugieser,Stainless Steel,Leather,Automatic,30,42.3,14.2,22,Blue,Sapphire,9100
+,Jaeger-LeCoultre,Master Control,Stainless Steel,Leather,Automatic,50,39,8.5,20,Silver,Sapphire,8200
+,Blancpain,Fifty Fathoms,Stainless Steel,Canvas,Automatic,300,45,15.5,23,Black,Sapphire,12500
+,Breguet,Classique,18K Rose Gold,Leather,Automatic,30,39,9.9,22,White,Sapphire,27900
+,Chopard,Mille Miglia,Stainless Steel,Rubber,Automatic,50,42,12.7,20,Black,Sapphire,6500
+,Seiko,Prospex,Stainless Steel,Silicone,Automatic,200,44.3,13.1,22,Black,Hardlex,1200
+,Tudor,Black Bay,Stainless Steel,Leather,Automatic,200,41,14.8,22,Black,Sapphire,3800
+,IWC,Pilot's Watch,Stainless Steel,Leather,Automatic,60,39,10.9,20,Black,Sapphire,4500
+,Panerai,Luminor Marina,Titanium,Rubber,Automatic,300,44,15.7,24,Black,Sapphire,9500
+,Patek Philippe,Nautilus,Stainless Steel,Stainless Steel,Automatic,120,40.5,8.3,20,Blue,Sapphire,35000
+,Audemars Piguet,Royal Oak,Stainless Steel,Stainless Steel,Automatic,50,41,10.4,20,Black,Sapphire,24000
+,Breguet,Classique,18K Rose Gold,Leather,Automatic,30,38.5,8.3,20,White,Sapphire,21500
+,Blancpain,Fifty Fathoms,Stainless Steel,Fabric,Automatic,300,45,15.5,23,Black,Sapphire,13500
+,Longines,Master Collection,Stainless Steel,Leather,Automatic,30,38.5,9.7,20,Blue,Sapphire,1800
+,Vacheron Constantin,Overseas,Stainless Steel,Stainless Steel,Automatic,150,41.5,11,22,Blue,Sapphire,19000
+,Frederique Constant,Classics,Stainless Steel,Leather,Automatic,50,40,10.6,20,Silver,Sapphire,1200

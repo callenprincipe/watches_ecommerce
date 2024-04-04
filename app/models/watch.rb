@@ -14,7 +14,6 @@ class Watch < ApplicationRecord
   validates :case_diameter, :case_thickness, :current_price, numericality: { only_decimal: true }
   validates :water_resistance, numericality: {only_integer: true}
 
-
   def self.search(search, search_by)
     if search
       if search_by == 'Brand'
@@ -27,5 +26,15 @@ class Watch < ApplicationRecord
     else
       all
     end
+  end
+  def self.ransackable_associations(auth_object = nil)
+    ["brand", "case_material", "crystal_material", "dial_color", "model", "movement_type", "order_details", "orders", "strap_material"]
+  end
+  def self.ransackable_attributes(auth_object = nil)
+    ["band_width", "brand_id", "case_diameter", "case_material_id", "case_thickness", "created_at", "crystal_material_id", "current_price", "dial_color_id", "id", "id_value", "model_id", "movement_type_id", "strap_material_id", "updated_at", "water_resistance"]
+  end
+
+  def to_s
+    self.id
   end
 end

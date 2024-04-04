@@ -8,6 +8,7 @@ DialColor.delete_all
 MovementType.delete_all
 Brand.delete_all
 Model.delete_all
+AdminUser.delete_all
 
 filename = Rails.root.join("db/luxury_watches.csv")
 
