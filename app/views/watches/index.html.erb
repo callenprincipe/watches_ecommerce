@@ -29,13 +29,13 @@
             <p class="subtitle">Size: <%= watch.case_diameter %>mm</p>
             <p class="subtitle">By: <%= watch.brand.name %></p>
             <p class="subtitle">ID: <%= watch.id %></p>
-            <% if session[:cart]&.include?(watch.id) %>
-              <%= form_tag remove_watch_from_cart_path(watch), method: :delete do %>
+            <% if session[:cart]&.key?(watch.id.to_s) %>
+              <%= form_tag remove_watch_from_cart_path(watch.id), method: :delete do %>
                 <%= submit_tag "Remove from Cart", class: 'is-danger' %>
               <% end %>
             <% else %>
-              <%= form_tag add_watch_to_cart_path(watch), method: :post do %>
-                <%= submit_tag "Add to Cart" %>
+              <%= form_tag add_watch_to_cart_path(watch.id), method: :post do %>
+                <%= submit_tag session[:cart]&.key?(watch.id) ? "Remove from Cart" : "Add to Cart" %>
               <% end %>
             <% end %>
           </div>
