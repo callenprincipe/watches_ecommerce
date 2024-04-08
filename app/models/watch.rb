@@ -10,9 +10,9 @@ class Watch < ApplicationRecord
   has_many :order_details
   has_many :orders, through: :order_details
 
-  validates :water_resistance, :case_diameter, :case_thickness, :current_price, presence:true
+  validates :water_resistance, :case_diameter, :case_thickness, :current_price, :band_width, presence:true
   validates :case_diameter, :case_thickness, :current_price, numericality: { only_decimal: true }
-  validates :water_resistance, numericality: {only_integer: true}
+  validates :water_resistance, :band_width, numericality: {only_integer: true}
 
   def self.search(search, search_by)
     if search
