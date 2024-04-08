@@ -1,0 +1,19 @@
+<h1>Your Shopping Cart</h1>
+<ul>
+  <% @cart_items.each do |watch_id, quantity| %>
+    <% watch = Watch.find(watch_id) %>
+    <li>
+      <%= watch.model.name %>
+
+      <!-- Quantity input field -->
+      <%= form_tag update_cart_path(watch_id), method: :patch do %>
+        <%= hidden_field_tag :id, watch_id %>
+        <%= number_field_tag "quantity", quantity, min: 1, step: 1, value: quantity %>
+        <%= submit_tag "Update" %>
+      <% end %>
+
+      <!-- Remove button -->
+      <%= button_to "Remove", remove_watch_from_cart_path(watch_id), method: :delete %>
+    </li>
+  <% end %>
+</ul>

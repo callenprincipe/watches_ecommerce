@@ -28,7 +28,16 @@
             <p class="subtitle">Price: <%= number_to_currency(watch.current_price) %> USD</p>
             <p class="subtitle">Size: <%= watch.case_diameter %>mm</p>
             <p class="subtitle">By: <%= watch.brand.name %></p>
-            <p>ID: <%= watch.id %></p>
+            <p class="subtitle">ID: <%= watch.id %></p>
+            <% if session[:cart]&.include?(watch.id) %>
+              <%= form_tag remove_watch_from_cart_path(watch), method: :delete do %>
+                <%= submit_tag "Remove from Cart", class: 'is-danger' %>
+              <% end %>
+            <% else %>
+              <%= form_tag add_watch_to_cart_path(watch), method: :post do %>
+                <%= submit_tag "Add to Cart" %>
+              <% end %>
+            <% end %>
           </div>
         </div>
       <% end %>

@@ -7,7 +7,7 @@
       <p class="title is-4">Model:</p>
       <p class="subtitle is-5">
         <% if @watch.model %>
-          <%= link_to @watch.model.name, brand_path(@watch.model) %>
+          <%= link_to @watch.model.name, model_path(@watch.model) %>
         <% else %>
           N/A
         <% end %>
@@ -79,6 +79,20 @@
     <div class="column is-one-third">
       <p class="title is-4">Price:</p>
       <p class="subtitle is-5"><%= number_to_currency(watch.current_price) %> USD</p>
+    </div>
+  </div>
+
+  <div class="columns">
+    <div class="column">
+      <% if session[:cart]&.include?(watch.id) %>
+        <%= form_tag remove_watch_from_cart_path(watch), method: :delete do %>
+          <%= submit_tag "Remove from Cart", class: 'button is-danger' %>
+        <% end %>
+      <% else %>
+        <%= form_tag add_watch_to_cart_path(watch), method: :post do %>
+          <%= submit_tag "Add to Cart", class: 'button' %>
+        <% end %>
+      <% end %>
     </div>
   </div>
 </div>
