@@ -29,7 +29,7 @@
 <% if @cart_items.present? and session[:customer_id].present? %>
   <%= link_to "Proceed to Checkout", checkout_path, class: "button is-success" %>
 <% elsif @cart_items.present? and not session[:customer_id].present?%>
-  <%= link_to "Sign up to Checkout", new_customer_path, class: "button is-success" %>
+  <%= link_to "Sign up to Checkout", new_customer_registration_path, class: "button is-success" %>
   <% else %>
   <p>Your cart is empty.</p>
 <% end %>
