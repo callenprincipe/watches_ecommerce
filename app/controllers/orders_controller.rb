@@ -2,8 +2,8 @@ class OrdersController < ApplicationController
   before_action :set_order, only: %i[ show edit update destroy ]
 
   def checkout
-    @cart_products = session[:cart]
-    @total_price = calculate_total_price(@cart_products)
+    @cart_watches = session[:cart]
+    @total_price = calculate_total_price(@cart_watches)
     @customer = Customer.new
   end
 
@@ -13,15 +13,28 @@ class OrdersController < ApplicationController
     redirect_to confirmation_path
   end
 
-  private
-
-  def calculate_total_price(cart_products)
+  def calculate_total_price(cart_watches)
     total_price = 0
-    cart_products.each do |product_id|
-      product = Product.find(product_id)
-      total_price += product.price
+    cart_watches.each do |watch_id, quantity|
+      watch = Watch.find(watch_id)
+      total_price += watch.current_price * quantity
     end
     total_price
+  end
+
+  def calculate_tax(province)
+    # Define tax rates for each province
+    tax_rates = {
+      "Alberta" => 0.05,
+      "British Columbia" => 0.12,
+      "Ontario" => 0.13,
+      # Add more provinces as needed
+    }
+
+    # Calculate tax based on the provided province
+    tax_rate = tax_rates[province.capitalize]
+    tax = @total_price * (tax_rate || 0)
+    tax
   end
 
   def customer_params

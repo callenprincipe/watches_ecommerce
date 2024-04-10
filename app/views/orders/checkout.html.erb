@@ -1,22 +1,36 @@
-<%= form_with model: @customer, url: create_order_path do |form| %>
-  <%= form.label :name %>
-  <%= form.text_field :name %>
+<%= link_to "Back to Shopping Cart", shopping_cart_index_path, class: "button is-link" %>
 
-  <%= form.label :email %>
-  <%= form.email_field :email %>
-
-  <%= form.label :address %>
-  <%= form.text_field :address %>
-
-  <%= form.label :province %>
-  <%= form.text_field :province %>
-
-  <%= form.submit "Place Order" %>
-<% end %>
-
-<h2>Invoice</h2>
-<% @cart_products.each do |product_id| %>
-  <% product = Product.find(product_id) %>
-  <p><%= product.name %>: <%= number_to_currency(product.price) %></p>
+<h2 class="title is-4">Invoice</h2>
+<% @cart_watches.each do |watch_id, quantity| %>
+  <% Watch.where(id: watch_id).each do |watch| %>
+    <p><%= watch.model.name %> (Quantity: <%= quantity %>): <%= number_to_currency(watch.current_price * quantity) %></p>
+  <% end %>
 <% end %>
 <p>Total: <%= number_to_currency(@total_price) %></p>
+
+
+<%= form_with model: @customer, url: orders_path do |form| %>
+  <div class="field">
+    <%= form.label :name %>
+    <%= form.text_field :name, class: "input" %>
+  </div>
+
+  <div class="field">
+    <%= form.label :email %>
+    <%= form.email_field :email, class: "input" %>
+  </div>
+
+  <div class="field">
+    <%= form.label :address %>
+    <%= form.text_field :address, class: "input" %>
+  </div>
+
+  <div class="field">
+    <%= form.label :province %>
+    <%= form.text_field :province, class: "input" %>
+  </div>
+
+  <div class="field">
+    <%= form.submit "Place Order", class: "button is-primary" %>
+  </div>
+<% end %>
