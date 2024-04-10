@@ -1,6 +1,33 @@
 class OrdersController < ApplicationController
   before_action :set_order, only: %i[ show edit update destroy ]
 
+  def checkout
+    @cart_products = session[:cart]
+    @total_price = calculate_total_price(@cart_products)
+    @customer = Customer.new
+  end
+
+  def create_order
+    @customer = Customer.find_or_create_by(customer_params)
+    @order = Order.create(customer_id: @customer.id, product_ids: session[:cart])
+    redirect_to confirmation_path
+  end
+
+  private
+
+  def calculate_total_price(cart_products)
+    total_price = 0
+    cart_products.each do |product_id|
+      product = Product.find(product_id)
+      total_price += product.price
+    end
+    total_price
+  end
+
+  def customer_params
+    params.require(:customer).permit(:name, :email, :address, :province)
+  end
+
   # GET /orders or /orders.json
   def index
     @orders = Order.all

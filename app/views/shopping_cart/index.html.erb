@@ -9,7 +9,6 @@
           <p>Quantity: <%= quantity.to_i %></p>
         </div>
         <div class="column is-one-third">
-          <!-- Quantity input field -->
           <%= form_tag update_cart_path(watch_id.to_s), method: :patch, class: "field has-addons" do %>
             <%= hidden_field_tag :id, watch_id %>
             <%= number_field_tag "quantity", quantity, min: 1, step: 1, value: quantity, class: "input" %>
@@ -26,3 +25,9 @@
     </li>
   <% end %>
 </ul>
+
+<% if @cart_items.present? %>
+  <%= link_to "Proceed to Checkout", checkout_path, class: "button is-success" %>
+<% else %>
+  <p>Your cart is empty.</p>
+<% end %>
