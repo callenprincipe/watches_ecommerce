@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  devise_for :customers
   get 'shopping_cart/index'
   post 'shopping_cart/add/:id', to: 'shopping_cart#add', as: 'add_watch_to_cart'
   delete 'shopping_cart/remove/:id', to: 'shopping_cart#remove', as: 'remove_watch_from_cart'

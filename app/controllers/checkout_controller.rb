@@ -2,12 +2,11 @@ class CheckoutController < ApplicationController
   def checkout
     @cart_watches = session[:cart]
     @total_price = calculate_total_price(@cart_watches)
-    @customer = Customer.new
   end
 
   def create_order
-    @customer = Customer.find_or_create_by(customer_params)
-    @order = Order.create(customer_id: @customer.id, product_ids: session[:cart])
+    @customer = Customer.find_or_create_by(session[:customer_id])
+    @order = Order.create(customer_id: @customer.id, watch_id: session[:cart])
     redirect_to confirmation_path
   end
 
@@ -18,9 +17,5 @@ class CheckoutController < ApplicationController
       total_price += watch.current_price * quantity
     end
     total_price
-  end
-
-  def customer_params
-    params.require(:customer).permit(:name, :email, :address, :province)
   end
 end
