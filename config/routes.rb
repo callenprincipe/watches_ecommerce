@@ -4,7 +4,7 @@ Rails.application.routes.draw do
   delete 'shopping_cart/remove/:id', to: 'shopping_cart#remove', as: 'remove_watch_from_cart'
   patch 'shopping_cart/update_cart/:id', to: 'shopping_cart#update_cart', as: 'update_cart'
 
-  get 'checkout', to: 'orders#checkout'
+  get 'checkout', to: 'checkout#checkout', as: 'checkout'
 
   devise_for :admin_users, ActiveAdmin::Devise.config
 

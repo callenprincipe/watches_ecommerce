@@ -1,9 +1,27 @@
-<h1>New customer</h1>
+<h1>New Customer</h1>
 
-<%= render "form", customer: @customer %>
+<%= form_with(model: @customer, local: true) do |form| %>
+  <div class="field">
+    <%= form.label :name %>
+    <%= form.text_field :name, class: "input" %>
+  </div>
 
-<br>
+  <div class="field">
+    <%= form.label :email %>
+    <%= form.email_field :email, class: "input" %>
+  </div>
 
-<div>
-  <%= link_to "Back to customers", customers_path %>
-</div>
+  <div class="field">
+    <%= form.label :address %>
+    <%= form.text_field :address, class: "input" %>
+  </div>
+
+  <div class="field">
+    <%= form.label :province %>
+    <%= form.collection_select :province, Province.all, :id, :name, {}, class: "input" %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit "Sign Up" %>
+  </div>
+<% end %>
