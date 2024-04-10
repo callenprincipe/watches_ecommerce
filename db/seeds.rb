@@ -43,6 +43,32 @@ watches.each do |v|
 
 end
 
+PROVINCES = [
+  { name: 'Alberta', pst: 0.0, gst: 0.05, hst: 0.0 },
+  { name: 'British Columbia', pst: 0.07, gst: 0.05, hst: 0.0 },
+  { name: 'Manitoba', pst: 0.07, gst: 0.05, hst: 0.0 },
+  { name: 'New Brunswick', pst: 0.0, gst: 0.0, hst: 0.15 },
+  { name: 'Newfoundland and Labrador', pst: 0.0, gst: 0.00, hst: 0.15 },
+  { name: 'Northwest Territories', pst: 0.0, gst: 0.05, hst: 0.0 },
+  { name: 'Nova Scotia', pst: 0.0, gst: 0.00, hst: 0.15 },
+  { name: 'Nunavut', pst: 0.0, gst: 0.05, hst: 0.0 },
+  { name: 'Ontario', pst: 0.0, gst: 0.0, hst: 0.13 },
+  { name: 'Prince Edward Island', pst: 0.0, gst: 0.0, hst: 0.15 },
+  { name: 'Quebec', pst: 0.09975, gst: 0.00, hst: 0.0 },
+  { name: 'Saskatchewan', pst: 0.06, gst: 0.05, hst: 0.0 },
+  { name: 'Yukon', pst: 0.0, gst: 0.05, hst: 0.0 }
+]
+
+
+PROVINCES.each do |province_data|
+  Province.find_or_create_by!(name: province_data[:name]) do |province|
+    province.pst = province_data[:pst]
+    province.gst = province_data[:gst]
+    province.hst = province_data[:hst]
+  end
+end
+
+puts "Created #{Province.count} Provinces."
 puts "Created #{Watch.count} Watches."
 puts "Created #{CaseMaterial.count} Case Materials."
 puts "Created #{CrystalMaterial.count} Crystal Materials."

@@ -7,30 +7,3 @@
   <% end %>
 <% end %>
 <p>Total: <%= number_to_currency(@total_price) %></p>
-
-
-<%= form_with model: @customer, url: orders_path do |form| %>
-  <div class="field">
-    <%= form.label :name %>
-    <%= form.text_field :name, class: "input" %>
-  </div>
-
-  <div class="field">
-    <%= form.label :email %>
-    <%= form.email_field :email, class: "input" %>
-  </div>
-
-  <div class="field">
-    <%= form.label :address %>
-    <%= form.text_field :address, class: "input" %>
-  </div>
-
-  <div class="field">
-    <%= form.label :province %>
-    <%= form.text_field :province, class: "input" %>
-  </div>
-
-  <div class="field">
-    <%= form.submit "Place Order", class: "button is-primary" %>
-  </div>
-<% end %>
