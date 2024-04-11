@@ -26,10 +26,10 @@
   <% end %>
 </ul>
 
-<% if @cart_items.present? and session[:customer_id].present? %>
+<% if @cart_items.present? and customer_signed_in? %>
   <%= link_to "Proceed to Checkout", checkout_path, class: "button is-success" %>
-<% elsif @cart_items.present? and not session[:customer_id].present?%>
+<% elsif @cart_items.present? and not customer_signed_in? %>
   <%= link_to "Sign up to Checkout", new_customer_registration_path, class: "button is-success" %>
-  <% else %>
+<% else %>
   <p>Your cart is empty.</p>
 <% end %>

@@ -14,4 +14,15 @@
       🛒
     <% end %>
   </div>
+  <div class="navbar-end">
+    <div class="navbar-item">
+      <% if customer_signed_in? %>
+        <p class="navbar-item">Logged in as <%= current_customer.name %></p>
+        <%= link_to "Log out", destroy_customer_session_path, method: :delete, class: "button is-light" %>
+      <% else %>
+        <%= link_to "Sign up", new_customer_registration_path, class: "button is-primary" %>
+        <%= link_to "Sign in", new_customer_session_path, class: "button is-light" %>
+      <% end %>
+    </div>
+  </div>
 </nav>

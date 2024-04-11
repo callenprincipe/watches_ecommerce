@@ -74,5 +74,6 @@ class ShoppingCartController < ApplicationController
 
   def index
     @cart_items = session[:cart] || []
+    @customer_name = current_customer.name if customer_signed_in?
   end
 end
