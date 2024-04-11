@@ -1,9 +1,15 @@
-<%= link_to "Back to Shopping Cart", shopping_cart_index_path, class: "button is-link" %>
+<section class="section">
+  <div class="container">
+    <%= link_to "Back to Shopping Cart", shopping_cart_index_path, class: "button is-link" %>
 
-<h2 class="title is-4">Invoice</h2>
-<% @cart_watches.each do |watch_id, quantity| %>
-  <% Watch.where(id: watch_id).each do |watch| %>
-    <p><%= watch.model.name %> (Quantity: <%= quantity %>): <%= number_to_currency(watch.current_price * quantity) %></p>
-  <% end %>
-<% end %>
-<p>Total: <%= number_to_currency(@total_price) %></p>
+    <h2 class="title is-4">Invoice</h2>
+    <% @cart_watches.each do |watch_id, quantity| %>
+      <% Watch.where(id: watch_id).each do |watch| %>
+        <p><%= watch.model.name %> (Quantity: <%= quantity %>): <%= number_to_currency(watch.current_price * quantity) %></p>
+      <% end %>
+    <% end %>
+    <p>Total: <%= number_to_currency(@total_price) %></p>
+
+  <%= button_to "Create Order", create_order_checkout_path, method: :post, class: "button is-primary"%>
+  </div>
+</section>

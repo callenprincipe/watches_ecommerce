@@ -9,6 +9,8 @@ Rails.application.routes.draw do
 
   get 'checkout', to: 'checkout#checkout', as: 'checkout'
 
+  post 'checkout/create_order', to: 'checkout#create_order', as: 'create_order_checkout'
+
   devise_for :admin_users, ActiveAdmin::Devise.config
 
   ActiveAdmin.routes(self)

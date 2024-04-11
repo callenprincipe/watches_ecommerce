@@ -1,35 +1,39 @@
-<h1 class="title">Your Shopping Cart</h1>
-<ul class="box">
-  <% @cart_items.each do |watch_id, quantity| %>
-    <% watch = Watch.find(watch_id) %>
-    <li>
-      <div class="columns is-vcentered">
-        <div class="column">
-          <p><strong><%= watch.model.name %></strong> (ID: <%= watch.id %>)</p>
-          <p>Quantity: <%= quantity.to_i %></p>
-        </div>
-        <div class="column is-one-third">
-          <%= form_tag update_cart_path(watch_id.to_s), method: :patch, class: "field has-addons" do %>
-            <%= hidden_field_tag :id, watch_id %>
-            <%= number_field_tag "quantity", quantity, min: 1, step: 1, value: quantity, class: "input" %>
-            <div class="control">
-              <%= submit_tag "Update", class: "button is-primary" %>
-            </div>
-          <% end %>
-        </div>
-        <div class="column">
-          <!-- Remove button -->
-          <%= button_to "Remove", remove_watch_from_cart_path(watch_id), method: :delete, class: "button is-danger" %>
-        </div>
-      </div>
-    </li>
-  <% end %>
-</ul>
+<section class="section">
+  <div class="container">
+    <h1 class="title">Your Shopping Cart</h1>
 
-<% if @cart_items.present? and customer_signed_in? %>
-  <%= link_to "Proceed to Checkout", checkout_path, class: "button is-success" %>
-<% elsif @cart_items.present? and not customer_signed_in? %>
-  <%= link_to "Sign up to Checkout", new_customer_registration_path, class: "button is-success" %>
-<% else %>
-  <p>Your cart is empty.</p>
-<% end %>
+    <ul class="box">
+      <% @cart_items.each do |watch_id, quantity| %>
+        <% watch = Watch.find(watch_id) %>
+        <li>
+          <div class="columns is-vcentered">
+            <div class="column">
+              <p><strong><%= watch.model.name %></strong> (ID: <%= watch.id %>)</p>
+              <p>Quantity: <%= quantity.to_i %></p>
+            </div>
+            <div class="column is-one-third">
+              <%= form_tag update_cart_path(watch_id.to_s), method: :patch, class: "field has-addons" do %>
+                <%= hidden_field_tag :id, watch_id %>
+                <%= number_field_tag "quantity", quantity, min: 1, step: 1, value: quantity, class: "input" %>
+                <div class="control">
+                  <%= submit_tag "Update", class: "button is-primary" %>
+                </div>
+              <% end %>
+            </div>
+            <div class="column">
+              <%= button_to "Remove", remove_watch_from_cart_path(watch_id), method: :delete, class: "button is-danger" %>
+            </div>
+          </div>
+        </li>
+      <% end %>
+    </ul>
+
+    <% if @cart_items.present? && customer_signed_in? %>
+      <%= link_to "Proceed to Checkout", checkout_path, class: "button is-success" %>
+    <% elsif @cart_items.present? && !customer_signed_in? %>
+      <%= link_to "Sign in to Checkout", new_customer_session_path, class: "button is-success" %>
+    <% else %>
+      <p>Your cart is empty.</p>
+    <% end %>
+  </div>
+</section>
