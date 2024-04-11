@@ -6,4 +6,8 @@ class Customer < ApplicationRecord
 
   has_many :orders
   validates :name, :email, :address, presence:true
+
+  def self.ransackable_attributes(auth_object = nil)
+    ["address", "created_at", "email", "encrypted_password", "id", "id_value", "name", "province_id", "remember_created_at", "reset_password_sent_at", "reset_password_token", "updated_at"]
+  end
 end
