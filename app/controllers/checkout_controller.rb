@@ -1,24 +1,34 @@
 class CheckoutController < ApplicationController
   def checkout
     @cart_watches = session[:cart]
-    @total_price = calculate_total_price(@cart_watches)
+    @customer = Customer.find_or_create_by(id: current_customer.id)
+
+    @province = Province.find(@customer.province_id)
+
+    @province_pst = @province.pst
+    @province_gst = @province.gst
+    @province_hst = @province.hst
+
+    @total_price = calculate_total_price(@cart_watches, @customer)
+    @total_pst = @total_price * @province_pst
+    @total_gst = @total_price * @province_gst
+    @total_hst = @total_price * @province_hst
+
+    @total_tax = @total_pst + @total_gst + @total_hst
   end
 
   def create_order
-    # Find or create the customer based on the session data
+
     @customer = Customer.find_or_create_by(id: current_customer.id)
 
-    # Create a new order for the customer with today's date
+
     @order = Order.new(customer_id: @customer.id, order_date: Time.zone.now)
     Rails.logger.debug("Order: #{@order.id}")
-    # Save the order object
+
     if @order.save
-      # Iterate over each item in the cart
       session[:cart].each do |watch_id, quantity|
-        # Find the watch
         watch = Watch.find(watch_id)
 
-        # Create an order detail for the watch and associate it with the order
         @order.order_details.create(
           order_id: @order.id,
           watch_id: watch_id,
@@ -27,19 +37,39 @@ class CheckoutController < ApplicationController
         )
       end
 
+      session[:cart] = nil
+
       flash[:notice] = "Order ID: #{@order.id} has been successfully created."
-      redirect_back fallback_location: shopping_cart_index_path
-    else
-      # Handle the case where the order couldn't be saved
-      # This might include displaying an error message to the user
+      redirect_to root_path
     end
   end
 
-  def calculate_total_price(cart_watches)
+  def calculate_province_tax(cart_watches, customer)
+    province = Province.find(customer.province_id)
+
+    province_pst = province.pst
+    province_gst = province.gst
+    province_hst = province.hst
+
+    total_tax = province_pst + province_gst + province_hst
+
     total_price = 0
     cart_watches.each do |watch_id, quantity|
       watch = Watch.find(watch_id)
       total_price += watch.current_price * quantity
+    end
+
+    total_tax_value = total_price * total_tax
+    total_tax_value
+  end
+
+
+  def calculate_total_price(cart_watches,customer)
+    total_price = 0
+
+    cart_watches.each do |watch_id, quantity|
+      watch = Watch.find(watch_id)
+      total_price += watch.current_price * quantity + calculate_province_tax(cart_watches,customer)
     end
     total_price
   end

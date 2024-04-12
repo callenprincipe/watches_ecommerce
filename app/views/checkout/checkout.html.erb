@@ -8,7 +8,11 @@
         <p><%= watch.model.name %> (Quantity: <%= quantity %>): <%= number_to_currency(watch.current_price * quantity) %></p>
       <% end %>
     <% end %>
-    <p>Total: <%= number_to_currency(@total_price) %></p>
+    <p>PST (<%= number_to_percentage(@province_pst * 100, precision: 2) %>): <%= number_to_currency(@total_pst) %></p>
+    <p>GST (<%= number_to_percentage(@province_gst * 100, precision: 2) %>): <%= number_to_currency(@total_gst) %></p>
+    <p>HST (<%= number_to_percentage(@province_hst * 100, precision: 2) %>): <%= number_to_currency(@total_hst) %></p>
+    <p>Total Tax: <%= number_to_currency(@total_tax) %></p>
+    <p>Total Price: <%= number_to_currency(@total_price) %></p>
 
   <%= button_to "Create Order", create_order_checkout_path, method: :post, class: "button is-primary"%>
   </div>
