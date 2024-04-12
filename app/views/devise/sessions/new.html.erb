@@ -3,6 +3,7 @@
     <h2 class="title is-2">Log in</h2>
 
     <%= form_for(resource, as: resource_name, url: session_path(resource_name), html: { class: "box" }) do |f| %>
+      <%= render "devise/shared/error_messages", resource: resource %>
       <div class="field">
         <%= f.label :email, class: "label" %>
         <div class="control">
