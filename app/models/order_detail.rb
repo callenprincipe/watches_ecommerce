@@ -4,7 +4,7 @@ class OrderDetail < ApplicationRecord
 
   validates :quantity, :price_at_order, presence:true
   validates :quantity, numericality: { only_integer: true }
-  validates :price_at_order, numericality: { only_decimal: true }
+  validates :price_at_order, :hst_at_order ,:pst_at_order ,:gst_at_order, numericality: { only_decimal: true }
 
 
 

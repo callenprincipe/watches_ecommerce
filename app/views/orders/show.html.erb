@@ -1,14 +1,55 @@
-<p style="color: green"><%= notice %></p>
 
-<h2>Order Details for Order ID: <%= @order.id %></h2>
+<section class="section">
+  <div class="container">
+    <%= link_to 'Back to My Orders', customer_orders_path(current_customer), class: 'button is-info' %>
+    <h2 class="title">Order Summary</h2>
 
-<ul>
-  <% @order.order_details.each do |detail| %>
-    <li>
-      <strong>Watch ID:</strong> <%= detail.watch_id %><br>
-      <strong>Quantity:</strong> <%= detail.quantity %><br>
-      <strong>Price at Order:</strong> <%= detail.price_at_order %><br>
-    </li>
-  <% end %>
-</ul>
+    <ul class="mb-5">
+      <% subtotal = 0 %>
+      <% hst_total = 0 %>
+      <% pst_total = 0 %>
+      <% gst_total = 0 %>
 
+      <% @order.order_details.each do |detail| %>
+        <li class="mb-4">
+          <strong>Watch:</strong> <%= detail.watch.model.name %> (ID: <%= detail.watch_id %>) <br>
+          <strong>Quantity:</strong> <%= detail.quantity %><br>
+          <strong>Price at Order:</strong> <%= number_to_currency(detail.price_at_order) %><br>
+          <strong>Amount:</strong> <%= number_to_currency(detail.quantity * detail.price_at_order) %><br>
+
+          <% hst_amount = detail.hst_at_order * (detail.quantity * detail.price_at_order) %>
+          <% pst_amount = detail.pst_at_order * (detail.quantity * detail.price_at_order) %>
+          <% gst_amount = detail.gst_at_order * (detail.quantity * detail.price_at_order) %>
+        </li>
+
+        <% subtotal += detail.quantity * detail.price_at_order %>
+        <% hst_total += hst_amount %>
+        <% pst_total += pst_amount %>
+        <% gst_total += gst_amount %>
+      <% end %>
+    </ul>
+
+  <div class="box">
+    <strong>Subtotal:</strong> <%= number_to_currency(subtotal.to_f) %><br>
+    <strong>Estimated Taxes:</strong><br>
+    <ul>
+      <% hst_total_details = 0 %>
+      <% pst_total_details = 0 %>
+      <% gst_total_details = 0 %>
+
+      <% @order.order_details.each do |detail| %>
+        <% hst_total_details += detail.hst_at_order * (detail.quantity * detail.price_at_order) %>
+        <% pst_total_details += detail.pst_at_order * (detail.quantity * detail.price_at_order) %>
+        <% gst_total_details += detail.gst_at_order * (detail.quantity * detail.price_at_order) %>
+      <% end %>
+
+      <li>HST (<%= number_to_percentage((hst_total_details / subtotal) * 100, precision: 2) %>): <%= number_to_currency(hst_total_details) %></li>
+      <li>PST (<%= number_to_percentage((pst_total_details / subtotal) * 100, precision: 2) %>): <%= number_to_currency(pst_total_details) %></li>
+      <li>GST (<%= number_to_percentage((gst_total_details / subtotal) * 100, precision: 2) %>): <%= number_to_currency(gst_total_details) %></li>
+    </ul>
+    <strong>Grand Total:</strong> <%= number_to_currency(subtotal.to_f + hst_total + pst_total + gst_total) %><br>
+  </div>
+
+
+  </div>
+</section>

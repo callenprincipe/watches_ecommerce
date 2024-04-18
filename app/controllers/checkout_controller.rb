@@ -25,6 +25,12 @@ class CheckoutController < ApplicationController
     @order = Order.new(customer_id: @customer.id, order_date: Time.zone.now)
     Rails.logger.debug("Order: #{@order.id}")
 
+    province = Province.find(@customer.province_id)
+
+    pst_at_order = province.pst
+    gst_at_order = province.gst
+    hst_at_order = province.hst
+
     if @order.save
       session[:cart].each do |watch_id, quantity|
         watch = Watch.find(watch_id)
@@ -33,7 +39,10 @@ class CheckoutController < ApplicationController
           order_id: @order.id,
           watch_id: watch_id,
           quantity: quantity,
-          price_at_order: watch.current_price
+          price_at_order: watch.current_price,
+          pst_at_order: pst_at_order,
+          gst_at_order: gst_at_order,
+          hst_at_order: hst_at_order
         )
       end
 
