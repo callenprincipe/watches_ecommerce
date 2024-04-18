@@ -16,10 +16,13 @@ Rails.application.routes.draw do
   ActiveAdmin.routes(self)
   resources :orders
   resources :order_details
-# resources :customers
   resources :watches
   resources :models
   resources :brands
+
+  resources :customers do
+    resources :orders, only: [:index]
+  end
 
   root 'watches#index'
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html

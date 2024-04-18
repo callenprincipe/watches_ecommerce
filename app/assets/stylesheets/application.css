@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+ .flash-notice-container {
+   position: absolute;
+   top: 15px;
+   left: 50%;
+   transform: translateX(-50%);
+   z-index: 1000; /* Ensure flash notice appears on top of other content */
+   width: 50%;
+   text-align: center;
+ }

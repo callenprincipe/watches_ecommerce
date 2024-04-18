@@ -1,10 +1,14 @@
 <p style="color: green"><%= notice %></p>
 
-<%= render @order %>
+<h2>Order Details for Order ID: <%= @order.id %></h2>
 
-<div>
-  <%= link_to "Edit this order", edit_order_path(@order) %> |
-  <%= link_to "Back to orders", orders_path %>
+<ul>
+  <% @order.order_details.each do |detail| %>
+    <li>
+      <strong>Watch ID:</strong> <%= detail.watch_id %><br>
+      <strong>Quantity:</strong> <%= detail.quantity %><br>
+      <strong>Price at Order:</strong> <%= detail.price_at_order %><br>
+    </li>
+  <% end %>
+</ul>
 
-  <%= button_to "Destroy this order", @order, method: :delete %>
-</div>
