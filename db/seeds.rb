@@ -9,6 +9,10 @@ MovementType.delete_all
 Brand.delete_all
 Model.delete_all
 AdminUser.delete_all
+Province.delete_all
+Customer.delete_all
+Order.delete_all
+OrderDetail.delete_all
 
 filename = Rails.root.join("db/luxury_watches.csv")
 

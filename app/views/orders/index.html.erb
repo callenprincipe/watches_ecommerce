@@ -2,14 +2,18 @@
   <div class="container">
     <h1 class="title">Orders</h1>
 
-    <ul class="list">
-      <% @orders.each do |order| %>
-        <li class="list-item">
-          <strong>Order ID:</strong> <%= order.id %><br>
-          <strong>Order Date:</strong> <%= order.order_date %><br>
-          <%= link_to 'View Details', order_path(order), class: 'button is-link is-small' %><br>
-        </li>
-      <% end %>
-    </ul>
+    <% if @orders.any? %>
+      <ul class="list">
+        <% @orders.each do |order| %>
+          <li class="list-item">
+            <strong>Order ID:</strong> <%= order.id %><br>
+            <strong>Order Date:</strong> <%= order.order_date %><br>
+            <%= link_to 'View Details', order_path(order), class: 'button is-link is-small' %><br>
+          </li>
+        <% end %>
+      </ul>
+    <% else %>
+      <p>You have no orders.</p>
+    <% end %>
   </div>
 </section>
